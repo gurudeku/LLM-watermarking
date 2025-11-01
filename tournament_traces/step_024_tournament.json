@@ -1,0 +1,1664 @@
+{
+  "seed_rt": 46594901713179887805974136198214639437,
+  "initial_candidates": [
+    {
+      "id": 319,
+      "p": 0.01618361286818981,
+      "token": "Ġon"
+    },
+    {
+      "id": 284,
+      "p": 0.7390830516815186,
+      "token": "Ġto"
+    },
+    {
+      "id": 284,
+      "p": 0.7390830516815186,
+      "token": "Ġto"
+    },
+    {
+      "id": 329,
+      "p": 0.023234542459249496,
+      "token": "Ġfor"
+    },
+    {
+      "id": 2691,
+      "p": 0.00015094901027623564,
+      "token": "Ġonline"
+    },
+    {
+      "id": 284,
+      "p": 0.7390830516815186,
+      "token": "Ġto"
+    },
+    {
+      "id": 284,
+      "p": 0.7390830516815186,
+      "token": "Ġto"
+    },
+    {
+      "id": 1028,
+      "p": 0.024969851598143578,
+      "token": "Ġagainst"
+    },
+    {
+      "id": 284,
+      "p": 0.7390830516815186,
+      "token": "Ġto"
+    },
+    {
+      "id": 1028,
+      "p": 0.024969851598143578,
+      "token": "Ġagainst"
+    },
+    {
+      "id": 3892,
+      "p": 0.0031858913134783506,
+      "token": "Ġstraight"
+    },
+    {
+      "id": 284,
+      "p": 0.7390830516815186,
+      "token": "Ġto"
+    },
+    {
+      "id": 284,
+      "p": 0.7390830516815186,
+      "token": "Ġto"
+    },
+    {
+      "id": 1497,
+      "p": 0.00621416000649333,
+      "token": "Ġaway"
+    },
+    {
+      "id": 284,
+      "p": 0.7390830516815186,
+      "token": "Ġto"
+    },
+    {
+      "id": 284,
+      "p": 0.7390830516815186,
+      "token": "Ġto"
+    },
+    {
+      "id": 284,
+      "p": 0.7390830516815186,
+      "token": "Ġto"
+    },
+    {
+      "id": 284,
+      "p": 0.7390830516815186,
+      "token": "Ġto"
+    },
+    {
+      "id": 284,
+      "p": 0.7390830516815186,
+      "token": "Ġto"
+    },
+    {
+      "id": 284,
+      "p": 0.7390830516815186,
+      "token": "Ġto"
+    },
+    {
+      "id": 284,
+      "p": 0.7390830516815186,
+      "token": "Ġto"
+    },
+    {
+      "id": 284,
+      "p": 0.7390830516815186,
+      "token": "Ġto"
+    },
+    {
+      "id": 284,
+      "p": 0.7390830516815186,
+      "token": "Ġto"
+    },
+    {
+      "id": 284,
+      "p": 0.7390830516815186,
+      "token": "Ġto"
+    },
+    {
+      "id": 284,
+      "p": 0.7390830516815186,
+      "token": "Ġto"
+    },
+    {
+      "id": 284,
+      "p": 0.7390830516815186,
+      "token": "Ġto"
+    },
+    {
+      "id": 284,
+      "p": 0.7390830516815186,
+      "token": "Ġto"
+    },
+    {
+      "id": 284,
+      "p": 0.7390830516815186,
+      "token": "Ġto"
+    },
+    {
+      "id": 736,
+      "p": 0.029275238513946533,
+      "token": "Ġback"
+    },
+    {
+      "id": 284,
+      "p": 0.7390830516815186,
+      "token": "Ġto"
+    },
+    {
+      "id": 329,
+      "p": 0.023234542459249496,
+      "token": "Ġfor"
+    },
+    {
+      "id": 284,
+      "p": 0.7390830516815186,
+      "token": "Ġto"
+    },
+    {
+      "id": 284,
+      "p": 0.7390830516815186,
+      "token": "Ġto"
+    },
+    {
+      "id": 284,
+      "p": 0.7390830516815186,
+      "token": "Ġto"
+    },
+    {
+      "id": 326,
+      "p": 0.0008981284336186945,
+      "token": "Ġthat"
+    },
+    {
+      "id": 286,
+      "p": 0.0046389116905629635,
+      "token": "Ġof"
+    },
+    {
+      "id": 284,
+      "p": 0.7390830516815186,
+      "token": "Ġto"
+    },
+    {
+      "id": 284,
+      "p": 0.7390830516815186,
+      "token": "Ġto"
+    },
+    {
+      "id": 284,
+      "p": 0.7390830516815186,
+      "token": "Ġto"
+    },
+    {
+      "id": 1028,
+      "p": 0.024969851598143578,
+      "token": "Ġagainst"
+    },
+    {
+      "id": 284,
+      "p": 0.7390830516815186,
+      "token": "Ġto"
+    },
+    {
+      "id": 284,
+      "p": 0.7390830516815186,
+      "token": "Ġto"
+    },
+    {
+      "id": 503,
+      "p": 0.004741064738482237,
+      "token": "Ġout"
+    },
+    {
+      "id": 284,
+      "p": 0.7390830516815186,
+      "token": "Ġto"
+    },
+    {
+      "id": 1028,
+      "p": 0.024969851598143578,
+      "token": "Ġagainst"
+    },
+    {
+      "id": 284,
+      "p": 0.7390830516815186,
+      "token": "Ġto"
+    },
+    {
+      "id": 284,
+      "p": 0.7390830516815186,
+      "token": "Ġto"
+    },
+    {
+      "id": 284,
+      "p": 0.7390830516815186,
+      "token": "Ġto"
+    },
+    {
+      "id": 284,
+      "p": 0.7390830516815186,
+      "token": "Ġto"
+    },
+    {
+      "id": 284,
+      "p": 0.7390830516815186,
+      "token": "Ġto"
+    },
+    {
+      "id": 1573,
+      "p": 0.00017846356786321849,
+      "token": "Ġword"
+    },
+    {
+      "id": 284,
+      "p": 0.7390830516815186,
+      "token": "Ġto"
+    },
+    {
+      "id": 284,
+      "p": 0.7390830516815186,
+      "token": "Ġto"
+    },
+    {
+      "id": 284,
+      "p": 0.7390830516815186,
+      "token": "Ġto"
+    },
+    {
+      "id": 284,
+      "p": 0.7390830516815186,
+      "token": "Ġto"
+    },
+    {
+      "id": 284,
+      "p": 0.7390830516815186,
+      "token": "Ġto"
+    },
+    {
+      "id": 812,
+      "p": 1.3110118743497878e-05,
+      "token": "Ġyears"
+    },
+    {
+      "id": 284,
+      "p": 0.7390830516815186,
+      "token": "Ġto"
+    },
+    {
+      "id": 736,
+      "p": 0.029275238513946533,
+      "token": "Ġback"
+    },
+    {
+      "id": 1028,
+      "p": 0.024969851598143578,
+      "token": "Ġagainst"
+    },
+    {
+      "id": 284,
+      "p": 0.7390830516815186,
+      "token": "Ġto"
+    },
+    {
+      "id": 284,
+      "p": 0.7390830516815186,
+      "token": "Ġto"
+    },
+    {
+      "id": 319,
+      "p": 0.01618361286818981,
+      "token": "Ġon"
+    },
+    {
+      "id": 284,
+      "p": 0.7390830516815186,
+      "token": "Ġto"
+    }
+  ],
+  "layers": [
+    {
+      "layer": 1,
+      "groups": [
+        {
+          "candidates": [
+            {
+              "id": 284,
+              "g": 1.0,
+              "token": "Ġto"
+            },
+            {
+              "id": 284,
+              "g": 1.0,
+              "token": "Ġto"
+            }
+          ],
+          "winner": {
+            "id": 284,
+            "token": "Ġto"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 284,
+              "g": 1.0,
+              "token": "Ġto"
+            },
+            {
+              "id": 3892,
+              "g": 1.0,
+              "token": "Ġstraight"
+            }
+          ],
+          "winner": {
+            "id": 3892,
+            "token": "Ġstraight"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 284,
+              "g": 1.0,
+              "token": "Ġto"
+            },
+            {
+              "id": 284,
+              "g": 1.0,
+              "token": "Ġto"
+            }
+          ],
+          "winner": {
+            "id": 284,
+            "token": "Ġto"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 284,
+              "g": 1.0,
+              "token": "Ġto"
+            },
+            {
+              "id": 284,
+              "g": 1.0,
+              "token": "Ġto"
+            }
+          ],
+          "winner": {
+            "id": 284,
+            "token": "Ġto"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 1028,
+              "g": 0.0,
+              "token": "Ġagainst"
+            },
+            {
+              "id": 284,
+              "g": 1.0,
+              "token": "Ġto"
+            }
+          ],
+          "winner": {
+            "id": 284,
+            "token": "Ġto"
+          },
+          "tie": false
+        },
+        {
+          "candidates": [
+            {
+              "id": 284,
+              "g": 1.0,
+              "token": "Ġto"
+            },
+            {
+              "id": 284,
+              "g": 1.0,
+              "token": "Ġto"
+            }
+          ],
+          "winner": {
+            "id": 284,
+            "token": "Ġto"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 329,
+              "g": 1.0,
+              "token": "Ġfor"
+            },
+            {
+              "id": 284,
+              "g": 1.0,
+              "token": "Ġto"
+            }
+          ],
+          "winner": {
+            "id": 329,
+            "token": "Ġfor"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 284,
+              "g": 1.0,
+              "token": "Ġto"
+            },
+            {
+              "id": 284,
+              "g": 1.0,
+              "token": "Ġto"
+            }
+          ],
+          "winner": {
+            "id": 284,
+            "token": "Ġto"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 284,
+              "g": 1.0,
+              "token": "Ġto"
+            },
+            {
+              "id": 284,
+              "g": 1.0,
+              "token": "Ġto"
+            }
+          ],
+          "winner": {
+            "id": 284,
+            "token": "Ġto"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 284,
+              "g": 1.0,
+              "token": "Ġto"
+            },
+            {
+              "id": 284,
+              "g": 1.0,
+              "token": "Ġto"
+            }
+          ],
+          "winner": {
+            "id": 284,
+            "token": "Ġto"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 284,
+              "g": 1.0,
+              "token": "Ġto"
+            },
+            {
+              "id": 284,
+              "g": 1.0,
+              "token": "Ġto"
+            }
+          ],
+          "winner": {
+            "id": 284,
+            "token": "Ġto"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 1028,
+              "g": 0.0,
+              "token": "Ġagainst"
+            },
+            {
+              "id": 1028,
+              "g": 0.0,
+              "token": "Ġagainst"
+            }
+          ],
+          "winner": {
+            "id": 1028,
+            "token": "Ġagainst"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 284,
+              "g": 1.0,
+              "token": "Ġto"
+            },
+            {
+              "id": 284,
+              "g": 1.0,
+              "token": "Ġto"
+            }
+          ],
+          "winner": {
+            "id": 284,
+            "token": "Ġto"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 736,
+              "g": 0.0,
+              "token": "Ġback"
+            },
+            {
+              "id": 284,
+              "g": 1.0,
+              "token": "Ġto"
+            }
+          ],
+          "winner": {
+            "id": 284,
+            "token": "Ġto"
+          },
+          "tie": false
+        },
+        {
+          "candidates": [
+            {
+              "id": 503,
+              "g": 0.0,
+              "token": "Ġout"
+            },
+            {
+              "id": 319,
+              "g": 0.0,
+              "token": "Ġon"
+            }
+          ],
+          "winner": {
+            "id": 319,
+            "token": "Ġon"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 736,
+              "g": 0.0,
+              "token": "Ġback"
+            },
+            {
+              "id": 284,
+              "g": 1.0,
+              "token": "Ġto"
+            }
+          ],
+          "winner": {
+            "id": 284,
+            "token": "Ġto"
+          },
+          "tie": false
+        },
+        {
+          "candidates": [
+            {
+              "id": 284,
+              "g": 1.0,
+              "token": "Ġto"
+            },
+            {
+              "id": 1497,
+              "g": 0.0,
+              "token": "Ġaway"
+            }
+          ],
+          "winner": {
+            "id": 284,
+            "token": "Ġto"
+          },
+          "tie": false
+        },
+        {
+          "candidates": [
+            {
+              "id": 1573,
+              "g": 0.0,
+              "token": "Ġword"
+            },
+            {
+              "id": 329,
+              "g": 1.0,
+              "token": "Ġfor"
+            }
+          ],
+          "winner": {
+            "id": 329,
+            "token": "Ġfor"
+          },
+          "tie": false
+        },
+        {
+          "candidates": [
+            {
+              "id": 284,
+              "g": 1.0,
+              "token": "Ġto"
+            },
+            {
+              "id": 284,
+              "g": 1.0,
+              "token": "Ġto"
+            }
+          ],
+          "winner": {
+            "id": 284,
+            "token": "Ġto"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 326,
+              "g": 0.0,
+              "token": "Ġthat"
+            },
+            {
+              "id": 284,
+              "g": 1.0,
+              "token": "Ġto"
+            }
+          ],
+          "winner": {
+            "id": 284,
+            "token": "Ġto"
+          },
+          "tie": false
+        },
+        {
+          "candidates": [
+            {
+              "id": 284,
+              "g": 1.0,
+              "token": "Ġto"
+            },
+            {
+              "id": 319,
+              "g": 0.0,
+              "token": "Ġon"
+            }
+          ],
+          "winner": {
+            "id": 284,
+            "token": "Ġto"
+          },
+          "tie": false
+        },
+        {
+          "candidates": [
+            {
+              "id": 1028,
+              "g": 0.0,
+              "token": "Ġagainst"
+            },
+            {
+              "id": 284,
+              "g": 1.0,
+              "token": "Ġto"
+            }
+          ],
+          "winner": {
+            "id": 284,
+            "token": "Ġto"
+          },
+          "tie": false
+        },
+        {
+          "candidates": [
+            {
+              "id": 284,
+              "g": 1.0,
+              "token": "Ġto"
+            },
+            {
+              "id": 284,
+              "g": 1.0,
+              "token": "Ġto"
+            }
+          ],
+          "winner": {
+            "id": 284,
+            "token": "Ġto"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 284,
+              "g": 1.0,
+              "token": "Ġto"
+            },
+            {
+              "id": 284,
+              "g": 1.0,
+              "token": "Ġto"
+            }
+          ],
+          "winner": {
+            "id": 284,
+            "token": "Ġto"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 284,
+              "g": 1.0,
+              "token": "Ġto"
+            },
+            {
+              "id": 284,
+              "g": 1.0,
+              "token": "Ġto"
+            }
+          ],
+          "winner": {
+            "id": 284,
+            "token": "Ġto"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 284,
+              "g": 1.0,
+              "token": "Ġto"
+            },
+            {
+              "id": 284,
+              "g": 1.0,
+              "token": "Ġto"
+            }
+          ],
+          "winner": {
+            "id": 284,
+            "token": "Ġto"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 284,
+              "g": 1.0,
+              "token": "Ġto"
+            },
+            {
+              "id": 284,
+              "g": 1.0,
+              "token": "Ġto"
+            }
+          ],
+          "winner": {
+            "id": 284,
+            "token": "Ġto"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 284,
+              "g": 1.0,
+              "token": "Ġto"
+            },
+            {
+              "id": 284,
+              "g": 1.0,
+              "token": "Ġto"
+            }
+          ],
+          "winner": {
+            "id": 284,
+            "token": "Ġto"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 2691,
+              "g": 1.0,
+              "token": "Ġonline"
+            },
+            {
+              "id": 284,
+              "g": 1.0,
+              "token": "Ġto"
+            }
+          ],
+          "winner": {
+            "id": 284,
+            "token": "Ġto"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 812,
+              "g": 1.0,
+              "token": "Ġyears"
+            },
+            {
+              "id": 286,
+              "g": 1.0,
+              "token": "Ġof"
+            }
+          ],
+          "winner": {
+            "id": 286,
+            "token": "Ġof"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 284,
+              "g": 1.0,
+              "token": "Ġto"
+            },
+            {
+              "id": 284,
+              "g": 1.0,
+              "token": "Ġto"
+            }
+          ],
+          "winner": {
+            "id": 284,
+            "token": "Ġto"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 284,
+              "g": 1.0,
+              "token": "Ġto"
+            },
+            {
+              "id": 1028,
+              "g": 0.0,
+              "token": "Ġagainst"
+            }
+          ],
+          "winner": {
+            "id": 284,
+            "token": "Ġto"
+          },
+          "tie": false
+        }
+      ]
+    },
+    {
+      "layer": 2,
+      "groups": [
+        {
+          "candidates": [
+            {
+              "id": 284,
+              "g": 1.0,
+              "token": "Ġto"
+            },
+            {
+              "id": 284,
+              "g": 1.0,
+              "token": "Ġto"
+            }
+          ],
+          "winner": {
+            "id": 284,
+            "token": "Ġto"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 284,
+              "g": 1.0,
+              "token": "Ġto"
+            },
+            {
+              "id": 319,
+              "g": 0.0,
+              "token": "Ġon"
+            }
+          ],
+          "winner": {
+            "id": 284,
+            "token": "Ġto"
+          },
+          "tie": false
+        },
+        {
+          "candidates": [
+            {
+              "id": 329,
+              "g": 1.0,
+              "token": "Ġfor"
+            },
+            {
+              "id": 284,
+              "g": 1.0,
+              "token": "Ġto"
+            }
+          ],
+          "winner": {
+            "id": 329,
+            "token": "Ġfor"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 284,
+              "g": 1.0,
+              "token": "Ġto"
+            },
+            {
+              "id": 284,
+              "g": 1.0,
+              "token": "Ġto"
+            }
+          ],
+          "winner": {
+            "id": 284,
+            "token": "Ġto"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 284,
+              "g": 1.0,
+              "token": "Ġto"
+            },
+            {
+              "id": 284,
+              "g": 1.0,
+              "token": "Ġto"
+            }
+          ],
+          "winner": {
+            "id": 284,
+            "token": "Ġto"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 284,
+              "g": 1.0,
+              "token": "Ġto"
+            },
+            {
+              "id": 284,
+              "g": 1.0,
+              "token": "Ġto"
+            }
+          ],
+          "winner": {
+            "id": 284,
+            "token": "Ġto"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 284,
+              "g": 1.0,
+              "token": "Ġto"
+            },
+            {
+              "id": 286,
+              "g": 0.0,
+              "token": "Ġof"
+            }
+          ],
+          "winner": {
+            "id": 284,
+            "token": "Ġto"
+          },
+          "tie": false
+        },
+        {
+          "candidates": [
+            {
+              "id": 284,
+              "g": 1.0,
+              "token": "Ġto"
+            },
+            {
+              "id": 284,
+              "g": 1.0,
+              "token": "Ġto"
+            }
+          ],
+          "winner": {
+            "id": 284,
+            "token": "Ġto"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 284,
+              "g": 1.0,
+              "token": "Ġto"
+            },
+            {
+              "id": 284,
+              "g": 1.0,
+              "token": "Ġto"
+            }
+          ],
+          "winner": {
+            "id": 284,
+            "token": "Ġto"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 284,
+              "g": 1.0,
+              "token": "Ġto"
+            },
+            {
+              "id": 284,
+              "g": 1.0,
+              "token": "Ġto"
+            }
+          ],
+          "winner": {
+            "id": 284,
+            "token": "Ġto"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 284,
+              "g": 1.0,
+              "token": "Ġto"
+            },
+            {
+              "id": 329,
+              "g": 1.0,
+              "token": "Ġfor"
+            }
+          ],
+          "winner": {
+            "id": 329,
+            "token": "Ġfor"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 3892,
+              "g": 0.0,
+              "token": "Ġstraight"
+            },
+            {
+              "id": 284,
+              "g": 1.0,
+              "token": "Ġto"
+            }
+          ],
+          "winner": {
+            "id": 284,
+            "token": "Ġto"
+          },
+          "tie": false
+        },
+        {
+          "candidates": [
+            {
+              "id": 284,
+              "g": 1.0,
+              "token": "Ġto"
+            },
+            {
+              "id": 284,
+              "g": 1.0,
+              "token": "Ġto"
+            }
+          ],
+          "winner": {
+            "id": 284,
+            "token": "Ġto"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 284,
+              "g": 1.0,
+              "token": "Ġto"
+            },
+            {
+              "id": 284,
+              "g": 1.0,
+              "token": "Ġto"
+            }
+          ],
+          "winner": {
+            "id": 284,
+            "token": "Ġto"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 1028,
+              "g": 1.0,
+              "token": "Ġagainst"
+            },
+            {
+              "id": 284,
+              "g": 1.0,
+              "token": "Ġto"
+            }
+          ],
+          "winner": {
+            "id": 1028,
+            "token": "Ġagainst"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 284,
+              "g": 1.0,
+              "token": "Ġto"
+            },
+            {
+              "id": 284,
+              "g": 1.0,
+              "token": "Ġto"
+            }
+          ],
+          "winner": {
+            "id": 284,
+            "token": "Ġto"
+          },
+          "tie": true
+        }
+      ]
+    },
+    {
+      "layer": 3,
+      "groups": [
+        {
+          "candidates": [
+            {
+              "id": 284,
+              "g": 1.0,
+              "token": "Ġto"
+            },
+            {
+              "id": 284,
+              "g": 1.0,
+              "token": "Ġto"
+            }
+          ],
+          "winner": {
+            "id": 284,
+            "token": "Ġto"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 284,
+              "g": 1.0,
+              "token": "Ġto"
+            },
+            {
+              "id": 284,
+              "g": 1.0,
+              "token": "Ġto"
+            }
+          ],
+          "winner": {
+            "id": 284,
+            "token": "Ġto"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 284,
+              "g": 1.0,
+              "token": "Ġto"
+            },
+            {
+              "id": 284,
+              "g": 1.0,
+              "token": "Ġto"
+            }
+          ],
+          "winner": {
+            "id": 284,
+            "token": "Ġto"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 284,
+              "g": 1.0,
+              "token": "Ġto"
+            },
+            {
+              "id": 284,
+              "g": 1.0,
+              "token": "Ġto"
+            }
+          ],
+          "winner": {
+            "id": 284,
+            "token": "Ġto"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 1028,
+              "g": 0.0,
+              "token": "Ġagainst"
+            },
+            {
+              "id": 284,
+              "g": 1.0,
+              "token": "Ġto"
+            }
+          ],
+          "winner": {
+            "id": 284,
+            "token": "Ġto"
+          },
+          "tie": false
+        },
+        {
+          "candidates": [
+            {
+              "id": 284,
+              "g": 1.0,
+              "token": "Ġto"
+            },
+            {
+              "id": 329,
+              "g": 0.0,
+              "token": "Ġfor"
+            }
+          ],
+          "winner": {
+            "id": 284,
+            "token": "Ġto"
+          },
+          "tie": false
+        },
+        {
+          "candidates": [
+            {
+              "id": 329,
+              "g": 0.0,
+              "token": "Ġfor"
+            },
+            {
+              "id": 284,
+              "g": 1.0,
+              "token": "Ġto"
+            }
+          ],
+          "winner": {
+            "id": 284,
+            "token": "Ġto"
+          },
+          "tie": false
+        },
+        {
+          "candidates": [
+            {
+              "id": 284,
+              "g": 1.0,
+              "token": "Ġto"
+            },
+            {
+              "id": 284,
+              "g": 1.0,
+              "token": "Ġto"
+            }
+          ],
+          "winner": {
+            "id": 284,
+            "token": "Ġto"
+          },
+          "tie": true
+        }
+      ]
+    },
+    {
+      "layer": 4,
+      "groups": [
+        {
+          "candidates": [
+            {
+              "id": 284,
+              "g": 0.0,
+              "token": "Ġto"
+            },
+            {
+              "id": 284,
+              "g": 0.0,
+              "token": "Ġto"
+            }
+          ],
+          "winner": {
+            "id": 284,
+            "token": "Ġto"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 284,
+              "g": 0.0,
+              "token": "Ġto"
+            },
+            {
+              "id": 284,
+              "g": 0.0,
+              "token": "Ġto"
+            }
+          ],
+          "winner": {
+            "id": 284,
+            "token": "Ġto"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 284,
+              "g": 0.0,
+              "token": "Ġto"
+            },
+            {
+              "id": 284,
+              "g": 0.0,
+              "token": "Ġto"
+            }
+          ],
+          "winner": {
+            "id": 284,
+            "token": "Ġto"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 284,
+              "g": 0.0,
+              "token": "Ġto"
+            },
+            {
+              "id": 284,
+              "g": 0.0,
+              "token": "Ġto"
+            }
+          ],
+          "winner": {
+            "id": 284,
+            "token": "Ġto"
+          },
+          "tie": true
+        }
+      ]
+    },
+    {
+      "layer": 5,
+      "groups": [
+        {
+          "candidates": [
+            {
+              "id": 284,
+              "g": 0.0,
+              "token": "Ġto"
+            },
+            {
+              "id": 284,
+              "g": 0.0,
+              "token": "Ġto"
+            }
+          ],
+          "winner": {
+            "id": 284,
+            "token": "Ġto"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 284,
+              "g": 0.0,
+              "token": "Ġto"
+            },
+            {
+              "id": 284,
+              "g": 0.0,
+              "token": "Ġto"
+            }
+          ],
+          "winner": {
+            "id": 284,
+            "token": "Ġto"
+          },
+          "tie": true
+        }
+      ]
+    },
+    {
+      "layer": 6,
+      "groups": [
+        {
+          "candidates": [
+            {
+              "id": 284,
+              "g": 1.0,
+              "token": "Ġto"
+            },
+            {
+              "id": 284,
+              "g": 1.0,
+              "token": "Ġto"
+            }
+          ],
+          "winner": {
+            "id": 284,
+            "token": "Ġto"
+          },
+          "tie": true
+        }
+      ]
+    }
+  ],
+  "final_winner": {
+    "id": 284,
+    "token": "Ġto"
+  },
+  "top_probs": [
+    {
+      "rank": 1,
+      "id": 284,
+      "token": "Ġto",
+      "p": 0.7390830516815186
+    },
+    {
+      "rank": 2,
+      "id": 736,
+      "token": "Ġback",
+      "p": 0.029275238513946533
+    },
+    {
+      "rank": 3,
+      "id": 1028,
+      "token": "Ġagainst",
+      "p": 0.024969851598143578
+    },
+    {
+      "rank": 4,
+      "id": 329,
+      "token": "Ġfor",
+      "p": 0.023234542459249496
+    },
+    {
+      "rank": 5,
+      "id": 319,
+      "token": "Ġon",
+      "p": 0.01618361286818981
+    },
+    {
+      "rank": 6,
+      "id": 656,
+      "token": "Ġinto",
+      "p": 0.014682826586067677
+    },
+    {
+      "rank": 7,
+      "id": 290,
+      "token": "Ġand",
+      "p": 0.010189914144575596
+    },
+    {
+      "rank": 8,
+      "id": 422,
+      "token": "Ġfrom",
+      "p": 0.008534152992069721
+    },
+    {
+      "rank": 9,
+      "id": 13,
+      "token": ".",
+      "p": 0.00824386440217495
+    },
+    {
+      "rank": 10,
+      "id": 287,
+      "token": "Ġin",
+      "p": 0.007865989580750465
+    },
+    {
+      "rank": 11,
+      "id": 1497,
+      "token": "Ġaway",
+      "p": 0.00621416000649333
+    },
+    {
+      "rank": 12,
+      "id": 477,
+      "token": "Ġall",
+      "p": 0.005560316611081362
+    },
+    {
+      "rank": 13,
+      "id": 503,
+      "token": "Ġout",
+      "p": 0.004741064738482237
+    },
+    {
+      "rank": 14,
+      "id": 11,
+      "token": ",",
+      "p": 0.0046695200726389885
+    },
+    {
+      "rank": 15,
+      "id": 286,
+      "token": "Ġof",
+      "p": 0.0046389116905629635
+    }
+  ],
+  "selected": {
+    "id": 284,
+    "token": "Ġto",
+    "p": 0.7390830516815186
+  },
+  "step": 24,
+  "m_layers": 6,
+  "group_size": 2,
+  "g_dist": "bernoulli",
+  "H_window": 4,
+  "nsec": 128,
+  "temperature": 1.0,
+  "top_k": null,
+  "top_p": null
+}

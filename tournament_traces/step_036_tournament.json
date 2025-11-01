@@ -1,0 +1,1664 @@
+{
+  "seed_rt": 5709235302479155422838363286808842432,
+  "initial_candidates": [
+    {
+      "id": 7319,
+      "p": 0.009008742868900299,
+      "token": "Ġthousand"
+    },
+    {
+      "id": 2745,
+      "p": 0.05417610704898834,
+      "token": "Ġweeks"
+    },
+    {
+      "id": 6,
+      "p": 0.09852629899978638,
+      "token": "'"
+    },
+    {
+      "id": 812,
+      "p": 0.10946797579526901,
+      "token": "Ġyears"
+    },
+    {
+      "id": 812,
+      "p": 0.10946797579526901,
+      "token": "Ġyears"
+    },
+    {
+      "id": 2250,
+      "p": 0.0218257587403059,
+      "token": "Ġhours"
+    },
+    {
+      "id": 7319,
+      "p": 0.009008742868900299,
+      "token": "Ġthousand"
+    },
+    {
+      "id": 3470,
+      "p": 0.00868075992912054,
+      "token": "Ġhundred"
+    },
+    {
+      "id": 290,
+      "p": 0.007155595347285271,
+      "token": "Ġand"
+    },
+    {
+      "id": 734,
+      "p": 0.0002946894383057952,
+      "token": "Ġtwo"
+    },
+    {
+      "id": 1933,
+      "p": 0.030711697414517403,
+      "token": "Ġmonths"
+    },
+    {
+      "id": 2745,
+      "p": 0.05417610704898834,
+      "token": "Ġweeks"
+    },
+    {
+      "id": 11,
+      "p": 0.012810355983674526,
+      "token": ","
+    },
+    {
+      "id": 812,
+      "p": 0.10946797579526901,
+      "token": "Ġyears"
+    },
+    {
+      "id": 2431,
+      "p": 0.012634960934519768,
+      "token": "Ġminutes"
+    },
+    {
+      "id": 4330,
+      "p": 0.0001493014715379104,
+      "token": "Ġfighting"
+    },
+    {
+      "id": 1528,
+      "p": 0.09591773897409439,
+      "token": "Ġdays"
+    },
+    {
+      "id": 12785,
+      "p": 0.0005374501924961805,
+      "token": "Ġconsecutive"
+    },
+    {
+      "id": 1353,
+      "p": 8.497730595991015e-05,
+      "token": "Ġtop"
+    },
+    {
+      "id": 812,
+      "p": 0.10946797579526901,
+      "token": "Ġyears"
+    },
+    {
+      "id": 2745,
+      "p": 0.05417610704898834,
+      "token": "Ġweeks"
+    },
+    {
+      "id": 1528,
+      "p": 0.09591773897409439,
+      "token": "Ġdays"
+    },
+    {
+      "id": 1528,
+      "p": 0.09591773897409439,
+      "token": "Ġdays"
+    },
+    {
+      "id": 812,
+      "p": 0.10946797579526901,
+      "token": "Ġyears"
+    },
+    {
+      "id": 6512,
+      "p": 4.213009015074931e-05,
+      "token": "Ġbird"
+    },
+    {
+      "id": 1388,
+      "p": 0.0009126377408392727,
+      "token": "Ġmain"
+    },
+    {
+      "id": 2745,
+      "p": 0.05417610704898834,
+      "token": "Ġweeks"
+    },
+    {
+      "id": 812,
+      "p": 0.10946797579526901,
+      "token": "Ġyears"
+    },
+    {
+      "id": 6,
+      "p": 0.09852629899978638,
+      "token": "'"
+    },
+    {
+      "id": 3892,
+      "p": 0.0014086870942264795,
+      "token": "Ġstraight"
+    },
+    {
+      "id": 6,
+      "p": 0.09852629899978638,
+      "token": "'"
+    },
+    {
+      "id": 8956,
+      "p": 0.004130801185965538,
+      "token": "Ġstrikes"
+    },
+    {
+      "id": 5054,
+      "p": 0.0004782077739946544,
+      "token": "Ġdollars"
+    },
+    {
+      "id": 6,
+      "p": 0.09852629899978638,
+      "token": "'"
+    },
+    {
+      "id": 2745,
+      "p": 0.05417610704898834,
+      "token": "Ġweeks"
+    },
+    {
+      "id": 12513,
+      "p": 0.002195794600993395,
+      "token": "Ġnights"
+    },
+    {
+      "id": 393,
+      "p": 0.00842762179672718,
+      "token": "Ġor"
+    },
+    {
+      "id": 812,
+      "p": 0.10946797579526901,
+      "token": "Ġyears"
+    },
+    {
+      "id": 2159,
+      "p": 7.27193255443126e-05,
+      "token": "ĠWorld"
+    },
+    {
+      "id": 4201,
+      "p": 0.005318804178386927,
+      "token": "Ġseconds"
+    },
+    {
+      "id": 812,
+      "p": 0.10946797579526901,
+      "token": "Ġyears"
+    },
+    {
+      "id": 286,
+      "p": 0.003024257719516754,
+      "token": "Ġof"
+    },
+    {
+      "id": 4647,
+      "p": 0.01346041914075613,
+      "token": "Ġdecades"
+    },
+    {
+      "id": 1152,
+      "p": 4.252647613611771e-06,
+      "token": "Ġgener"
+    },
+    {
+      "id": 812,
+      "p": 0.10946797579526901,
+      "token": "Ġyears"
+    },
+    {
+      "id": 812,
+      "p": 0.10946797579526901,
+      "token": "Ġyears"
+    },
+    {
+      "id": 526,
+      "p": 0.005974802188575268,
+      "token": ".\""
+    },
+    {
+      "id": 812,
+      "p": 0.10946797579526901,
+      "token": "Ġyears"
+    },
+    {
+      "id": 1450,
+      "p": 0.005751393269747496,
+      "token": "Ġmen"
+    },
+    {
+      "id": 3625,
+      "p": 0.010296081192791462,
+      "token": "Ġfeet"
+    },
+    {
+      "id": 6,
+      "p": 0.09852629899978638,
+      "token": "'"
+    },
+    {
+      "id": 3173,
+      "p": 0.00028272197232581675,
+      "token": "Ġrules"
+    },
+    {
+      "id": 37888,
+      "p": 0.0019679819233715534,
+      "token": "Ġrevolutions"
+    },
+    {
+      "id": 2250,
+      "p": 0.0218257587403059,
+      "token": "Ġhours"
+    },
+    {
+      "id": 3470,
+      "p": 0.00868075992912054,
+      "token": "Ġhundred"
+    },
+    {
+      "id": 17317,
+      "p": 1.5603796782670543e-05,
+      "token": "Ġbosses"
+    },
+    {
+      "id": 2745,
+      "p": 0.05417610704898834,
+      "token": "Ġweeks"
+    },
+    {
+      "id": 812,
+      "p": 0.10946797579526901,
+      "token": "Ġyears"
+    },
+    {
+      "id": 12,
+      "p": 0.025474686175584793,
+      "token": "-"
+    },
+    {
+      "id": 526,
+      "p": 0.005974802188575268,
+      "token": ".\""
+    },
+    {
+      "id": 2431,
+      "p": 0.012634960934519768,
+      "token": "Ġminutes"
+    },
+    {
+      "id": 812,
+      "p": 0.10946797579526901,
+      "token": "Ġyears"
+    },
+    {
+      "id": 393,
+      "p": 0.00842762179672718,
+      "token": "Ġor"
+    },
+    {
+      "id": 13,
+      "p": 0.00761970691382885,
+      "token": "."
+    }
+  ],
+  "layers": [
+    {
+      "layer": 1,
+      "groups": [
+        {
+          "candidates": [
+            {
+              "id": 1353,
+              "g": 0.0,
+              "token": "Ġtop"
+            },
+            {
+              "id": 2431,
+              "g": 1.0,
+              "token": "Ġminutes"
+            }
+          ],
+          "winner": {
+            "id": 2431,
+            "token": "Ġminutes"
+          },
+          "tie": false
+        },
+        {
+          "candidates": [
+            {
+              "id": 1450,
+              "g": 0.0,
+              "token": "Ġmen"
+            },
+            {
+              "id": 1528,
+              "g": 0.0,
+              "token": "Ġdays"
+            }
+          ],
+          "winner": {
+            "id": 1528,
+            "token": "Ġdays"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 3625,
+              "g": 0.0,
+              "token": "Ġfeet"
+            },
+            {
+              "id": 13,
+              "g": 0.0,
+              "token": "."
+            }
+          ],
+          "winner": {
+            "id": 3625,
+            "token": "Ġfeet"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 812,
+              "g": 0.0,
+              "token": "Ġyears"
+            },
+            {
+              "id": 7319,
+              "g": 0.0,
+              "token": "Ġthousand"
+            }
+          ],
+          "winner": {
+            "id": 7319,
+            "token": "Ġthousand"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 2745,
+              "g": 1.0,
+              "token": "Ġweeks"
+            },
+            {
+              "id": 2250,
+              "g": 1.0,
+              "token": "Ġhours"
+            }
+          ],
+          "winner": {
+            "id": 2745,
+            "token": "Ġweeks"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 812,
+              "g": 0.0,
+              "token": "Ġyears"
+            },
+            {
+              "id": 812,
+              "g": 0.0,
+              "token": "Ġyears"
+            }
+          ],
+          "winner": {
+            "id": 812,
+            "token": "Ġyears"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 37888,
+              "g": 1.0,
+              "token": "Ġrevolutions"
+            },
+            {
+              "id": 3892,
+              "g": 0.0,
+              "token": "Ġstraight"
+            }
+          ],
+          "winner": {
+            "id": 37888,
+            "token": "Ġrevolutions"
+          },
+          "tie": false
+        },
+        {
+          "candidates": [
+            {
+              "id": 812,
+              "g": 0.0,
+              "token": "Ġyears"
+            },
+            {
+              "id": 526,
+              "g": 0.0,
+              "token": ".\""
+            }
+          ],
+          "winner": {
+            "id": 526,
+            "token": ".\""
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 12,
+              "g": 1.0,
+              "token": "-"
+            },
+            {
+              "id": 6512,
+              "g": 0.0,
+              "token": "Ġbird"
+            }
+          ],
+          "winner": {
+            "id": 12,
+            "token": "-"
+          },
+          "tie": false
+        },
+        {
+          "candidates": [
+            {
+              "id": 812,
+              "g": 0.0,
+              "token": "Ġyears"
+            },
+            {
+              "id": 6,
+              "g": 0.0,
+              "token": "'"
+            }
+          ],
+          "winner": {
+            "id": 6,
+            "token": "'"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 2745,
+              "g": 1.0,
+              "token": "Ġweeks"
+            },
+            {
+              "id": 7319,
+              "g": 0.0,
+              "token": "Ġthousand"
+            }
+          ],
+          "winner": {
+            "id": 2745,
+            "token": "Ġweeks"
+          },
+          "tie": false
+        },
+        {
+          "candidates": [
+            {
+              "id": 812,
+              "g": 0.0,
+              "token": "Ġyears"
+            },
+            {
+              "id": 4330,
+              "g": 1.0,
+              "token": "Ġfighting"
+            }
+          ],
+          "winner": {
+            "id": 4330,
+            "token": "Ġfighting"
+          },
+          "tie": false
+        },
+        {
+          "candidates": [
+            {
+              "id": 3470,
+              "g": 1.0,
+              "token": "Ġhundred"
+            },
+            {
+              "id": 812,
+              "g": 0.0,
+              "token": "Ġyears"
+            }
+          ],
+          "winner": {
+            "id": 3470,
+            "token": "Ġhundred"
+          },
+          "tie": false
+        },
+        {
+          "candidates": [
+            {
+              "id": 17317,
+              "g": 1.0,
+              "token": "Ġbosses"
+            },
+            {
+              "id": 812,
+              "g": 0.0,
+              "token": "Ġyears"
+            }
+          ],
+          "winner": {
+            "id": 17317,
+            "token": "Ġbosses"
+          },
+          "tie": false
+        },
+        {
+          "candidates": [
+            {
+              "id": 812,
+              "g": 0.0,
+              "token": "Ġyears"
+            },
+            {
+              "id": 812,
+              "g": 0.0,
+              "token": "Ġyears"
+            }
+          ],
+          "winner": {
+            "id": 812,
+            "token": "Ġyears"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 6,
+              "g": 0.0,
+              "token": "'"
+            },
+            {
+              "id": 1388,
+              "g": 1.0,
+              "token": "Ġmain"
+            }
+          ],
+          "winner": {
+            "id": 1388,
+            "token": "Ġmain"
+          },
+          "tie": false
+        },
+        {
+          "candidates": [
+            {
+              "id": 2431,
+              "g": 1.0,
+              "token": "Ġminutes"
+            },
+            {
+              "id": 2745,
+              "g": 1.0,
+              "token": "Ġweeks"
+            }
+          ],
+          "winner": {
+            "id": 2745,
+            "token": "Ġweeks"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 2159,
+              "g": 1.0,
+              "token": "ĠWorld"
+            },
+            {
+              "id": 526,
+              "g": 0.0,
+              "token": ".\""
+            }
+          ],
+          "winner": {
+            "id": 2159,
+            "token": "ĠWorld"
+          },
+          "tie": false
+        },
+        {
+          "candidates": [
+            {
+              "id": 1933,
+              "g": 0.0,
+              "token": "Ġmonths"
+            },
+            {
+              "id": 2745,
+              "g": 1.0,
+              "token": "Ġweeks"
+            }
+          ],
+          "winner": {
+            "id": 2745,
+            "token": "Ġweeks"
+          },
+          "tie": false
+        },
+        {
+          "candidates": [
+            {
+              "id": 393,
+              "g": 0.0,
+              "token": "Ġor"
+            },
+            {
+              "id": 5054,
+              "g": 0.0,
+              "token": "Ġdollars"
+            }
+          ],
+          "winner": {
+            "id": 393,
+            "token": "Ġor"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 393,
+              "g": 0.0,
+              "token": "Ġor"
+            },
+            {
+              "id": 1528,
+              "g": 0.0,
+              "token": "Ġdays"
+            }
+          ],
+          "winner": {
+            "id": 393,
+            "token": "Ġor"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 3470,
+              "g": 1.0,
+              "token": "Ġhundred"
+            },
+            {
+              "id": 12785,
+              "g": 0.0,
+              "token": "Ġconsecutive"
+            }
+          ],
+          "winner": {
+            "id": 3470,
+            "token": "Ġhundred"
+          },
+          "tie": false
+        },
+        {
+          "candidates": [
+            {
+              "id": 1528,
+              "g": 0.0,
+              "token": "Ġdays"
+            },
+            {
+              "id": 2745,
+              "g": 1.0,
+              "token": "Ġweeks"
+            }
+          ],
+          "winner": {
+            "id": 2745,
+            "token": "Ġweeks"
+          },
+          "tie": false
+        },
+        {
+          "candidates": [
+            {
+              "id": 6,
+              "g": 0.0,
+              "token": "'"
+            },
+            {
+              "id": 812,
+              "g": 0.0,
+              "token": "Ġyears"
+            }
+          ],
+          "winner": {
+            "id": 6,
+            "token": "'"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 4647,
+              "g": 1.0,
+              "token": "Ġdecades"
+            },
+            {
+              "id": 4201,
+              "g": 1.0,
+              "token": "Ġseconds"
+            }
+          ],
+          "winner": {
+            "id": 4647,
+            "token": "Ġdecades"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 2250,
+              "g": 1.0,
+              "token": "Ġhours"
+            },
+            {
+              "id": 11,
+              "g": 1.0,
+              "token": ","
+            }
+          ],
+          "winner": {
+            "id": 11,
+            "token": ","
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 6,
+              "g": 0.0,
+              "token": "'"
+            },
+            {
+              "id": 812,
+              "g": 0.0,
+              "token": "Ġyears"
+            }
+          ],
+          "winner": {
+            "id": 6,
+            "token": "'"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 2745,
+              "g": 1.0,
+              "token": "Ġweeks"
+            },
+            {
+              "id": 1152,
+              "g": 1.0,
+              "token": "Ġgener"
+            }
+          ],
+          "winner": {
+            "id": 1152,
+            "token": "Ġgener"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 812,
+              "g": 0.0,
+              "token": "Ġyears"
+            },
+            {
+              "id": 734,
+              "g": 0.0,
+              "token": "Ġtwo"
+            }
+          ],
+          "winner": {
+            "id": 734,
+            "token": "Ġtwo"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 290,
+              "g": 1.0,
+              "token": "Ġand"
+            },
+            {
+              "id": 6,
+              "g": 0.0,
+              "token": "'"
+            }
+          ],
+          "winner": {
+            "id": 290,
+            "token": "Ġand"
+          },
+          "tie": false
+        },
+        {
+          "candidates": [
+            {
+              "id": 286,
+              "g": 1.0,
+              "token": "Ġof"
+            },
+            {
+              "id": 8956,
+              "g": 1.0,
+              "token": "Ġstrikes"
+            }
+          ],
+          "winner": {
+            "id": 286,
+            "token": "Ġof"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 3173,
+              "g": 1.0,
+              "token": "Ġrules"
+            },
+            {
+              "id": 12513,
+              "g": 1.0,
+              "token": "Ġnights"
+            }
+          ],
+          "winner": {
+            "id": 3173,
+            "token": "Ġrules"
+          },
+          "tie": true
+        }
+      ]
+    },
+    {
+      "layer": 2,
+      "groups": [
+        {
+          "candidates": [
+            {
+              "id": 3470,
+              "g": 0.0,
+              "token": "Ġhundred"
+            },
+            {
+              "id": 812,
+              "g": 0.0,
+              "token": "Ġyears"
+            }
+          ],
+          "winner": {
+            "id": 812,
+            "token": "Ġyears"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 2745,
+              "g": 0.0,
+              "token": "Ġweeks"
+            },
+            {
+              "id": 286,
+              "g": 0.0,
+              "token": "Ġof"
+            }
+          ],
+          "winner": {
+            "id": 2745,
+            "token": "Ġweeks"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 812,
+              "g": 0.0,
+              "token": "Ġyears"
+            },
+            {
+              "id": 2745,
+              "g": 0.0,
+              "token": "Ġweeks"
+            }
+          ],
+          "winner": {
+            "id": 2745,
+            "token": "Ġweeks"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 4330,
+              "g": 1.0,
+              "token": "Ġfighting"
+            },
+            {
+              "id": 2745,
+              "g": 0.0,
+              "token": "Ġweeks"
+            }
+          ],
+          "winner": {
+            "id": 4330,
+            "token": "Ġfighting"
+          },
+          "tie": false
+        },
+        {
+          "candidates": [
+            {
+              "id": 4647,
+              "g": 1.0,
+              "token": "Ġdecades"
+            },
+            {
+              "id": 37888,
+              "g": 0.0,
+              "token": "Ġrevolutions"
+            }
+          ],
+          "winner": {
+            "id": 4647,
+            "token": "Ġdecades"
+          },
+          "tie": false
+        },
+        {
+          "candidates": [
+            {
+              "id": 3173,
+              "g": 1.0,
+              "token": "Ġrules"
+            },
+            {
+              "id": 3625,
+              "g": 0.0,
+              "token": "Ġfeet"
+            }
+          ],
+          "winner": {
+            "id": 3173,
+            "token": "Ġrules"
+          },
+          "tie": false
+        },
+        {
+          "candidates": [
+            {
+              "id": 2159,
+              "g": 1.0,
+              "token": "ĠWorld"
+            },
+            {
+              "id": 734,
+              "g": 0.0,
+              "token": "Ġtwo"
+            }
+          ],
+          "winner": {
+            "id": 2159,
+            "token": "ĠWorld"
+          },
+          "tie": false
+        },
+        {
+          "candidates": [
+            {
+              "id": 17317,
+              "g": 1.0,
+              "token": "Ġbosses"
+            },
+            {
+              "id": 7319,
+              "g": 0.0,
+              "token": "Ġthousand"
+            }
+          ],
+          "winner": {
+            "id": 17317,
+            "token": "Ġbosses"
+          },
+          "tie": false
+        },
+        {
+          "candidates": [
+            {
+              "id": 1152,
+              "g": 1.0,
+              "token": "Ġgener"
+            },
+            {
+              "id": 2745,
+              "g": 0.0,
+              "token": "Ġweeks"
+            }
+          ],
+          "winner": {
+            "id": 1152,
+            "token": "Ġgener"
+          },
+          "tie": false
+        },
+        {
+          "candidates": [
+            {
+              "id": 1388,
+              "g": 1.0,
+              "token": "Ġmain"
+            },
+            {
+              "id": 526,
+              "g": 1.0,
+              "token": ".\""
+            }
+          ],
+          "winner": {
+            "id": 526,
+            "token": ".\""
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 6,
+              "g": 0.0,
+              "token": "'"
+            },
+            {
+              "id": 2431,
+              "g": 0.0,
+              "token": "Ġminutes"
+            }
+          ],
+          "winner": {
+            "id": 6,
+            "token": "'"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 393,
+              "g": 1.0,
+              "token": "Ġor"
+            },
+            {
+              "id": 2745,
+              "g": 0.0,
+              "token": "Ġweeks"
+            }
+          ],
+          "winner": {
+            "id": 393,
+            "token": "Ġor"
+          },
+          "tie": false
+        },
+        {
+          "candidates": [
+            {
+              "id": 12,
+              "g": 0.0,
+              "token": "-"
+            },
+            {
+              "id": 11,
+              "g": 1.0,
+              "token": ","
+            }
+          ],
+          "winner": {
+            "id": 11,
+            "token": ","
+          },
+          "tie": false
+        },
+        {
+          "candidates": [
+            {
+              "id": 3470,
+              "g": 0.0,
+              "token": "Ġhundred"
+            },
+            {
+              "id": 290,
+              "g": 0.0,
+              "token": "Ġand"
+            }
+          ],
+          "winner": {
+            "id": 3470,
+            "token": "Ġhundred"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 1528,
+              "g": 1.0,
+              "token": "Ġdays"
+            },
+            {
+              "id": 6,
+              "g": 0.0,
+              "token": "'"
+            }
+          ],
+          "winner": {
+            "id": 1528,
+            "token": "Ġdays"
+          },
+          "tie": false
+        },
+        {
+          "candidates": [
+            {
+              "id": 393,
+              "g": 1.0,
+              "token": "Ġor"
+            },
+            {
+              "id": 6,
+              "g": 0.0,
+              "token": "'"
+            }
+          ],
+          "winner": {
+            "id": 393,
+            "token": "Ġor"
+          },
+          "tie": false
+        }
+      ]
+    },
+    {
+      "layer": 3,
+      "groups": [
+        {
+          "candidates": [
+            {
+              "id": 812,
+              "g": 0.0,
+              "token": "Ġyears"
+            },
+            {
+              "id": 393,
+              "g": 1.0,
+              "token": "Ġor"
+            }
+          ],
+          "winner": {
+            "id": 393,
+            "token": "Ġor"
+          },
+          "tie": false
+        },
+        {
+          "candidates": [
+            {
+              "id": 1152,
+              "g": 0.0,
+              "token": "Ġgener"
+            },
+            {
+              "id": 2159,
+              "g": 0.0,
+              "token": "ĠWorld"
+            }
+          ],
+          "winner": {
+            "id": 2159,
+            "token": "ĠWorld"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 11,
+              "g": 1.0,
+              "token": ","
+            },
+            {
+              "id": 3470,
+              "g": 0.0,
+              "token": "Ġhundred"
+            }
+          ],
+          "winner": {
+            "id": 11,
+            "token": ","
+          },
+          "tie": false
+        },
+        {
+          "candidates": [
+            {
+              "id": 4647,
+              "g": 0.0,
+              "token": "Ġdecades"
+            },
+            {
+              "id": 393,
+              "g": 1.0,
+              "token": "Ġor"
+            }
+          ],
+          "winner": {
+            "id": 393,
+            "token": "Ġor"
+          },
+          "tie": false
+        },
+        {
+          "candidates": [
+            {
+              "id": 6,
+              "g": 1.0,
+              "token": "'"
+            },
+            {
+              "id": 17317,
+              "g": 0.0,
+              "token": "Ġbosses"
+            }
+          ],
+          "winner": {
+            "id": 6,
+            "token": "'"
+          },
+          "tie": false
+        },
+        {
+          "candidates": [
+            {
+              "id": 4330,
+              "g": 0.0,
+              "token": "Ġfighting"
+            },
+            {
+              "id": 3173,
+              "g": 0.0,
+              "token": "Ġrules"
+            }
+          ],
+          "winner": {
+            "id": 3173,
+            "token": "Ġrules"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 1528,
+              "g": 0.0,
+              "token": "Ġdays"
+            },
+            {
+              "id": 526,
+              "g": 0.0,
+              "token": ".\""
+            }
+          ],
+          "winner": {
+            "id": 526,
+            "token": ".\""
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 2745,
+              "g": 0.0,
+              "token": "Ġweeks"
+            },
+            {
+              "id": 2745,
+              "g": 0.0,
+              "token": "Ġweeks"
+            }
+          ],
+          "winner": {
+            "id": 2745,
+            "token": "Ġweeks"
+          },
+          "tie": true
+        }
+      ]
+    },
+    {
+      "layer": 4,
+      "groups": [
+        {
+          "candidates": [
+            {
+              "id": 393,
+              "g": 0.0,
+              "token": "Ġor"
+            },
+            {
+              "id": 2159,
+              "g": 1.0,
+              "token": "ĠWorld"
+            }
+          ],
+          "winner": {
+            "id": 2159,
+            "token": "ĠWorld"
+          },
+          "tie": false
+        },
+        {
+          "candidates": [
+            {
+              "id": 2745,
+              "g": 0.0,
+              "token": "Ġweeks"
+            },
+            {
+              "id": 526,
+              "g": 1.0,
+              "token": ".\""
+            }
+          ],
+          "winner": {
+            "id": 526,
+            "token": ".\""
+          },
+          "tie": false
+        },
+        {
+          "candidates": [
+            {
+              "id": 393,
+              "g": 0.0,
+              "token": "Ġor"
+            },
+            {
+              "id": 11,
+              "g": 1.0,
+              "token": ","
+            }
+          ],
+          "winner": {
+            "id": 11,
+            "token": ","
+          },
+          "tie": false
+        },
+        {
+          "candidates": [
+            {
+              "id": 3173,
+              "g": 0.0,
+              "token": "Ġrules"
+            },
+            {
+              "id": 6,
+              "g": 0.0,
+              "token": "'"
+            }
+          ],
+          "winner": {
+            "id": 6,
+            "token": "'"
+          },
+          "tie": true
+        }
+      ]
+    },
+    {
+      "layer": 5,
+      "groups": [
+        {
+          "candidates": [
+            {
+              "id": 6,
+              "g": 0.0,
+              "token": "'"
+            },
+            {
+              "id": 11,
+              "g": 1.0,
+              "token": ","
+            }
+          ],
+          "winner": {
+            "id": 11,
+            "token": ","
+          },
+          "tie": false
+        },
+        {
+          "candidates": [
+            {
+              "id": 2159,
+              "g": 1.0,
+              "token": "ĠWorld"
+            },
+            {
+              "id": 526,
+              "g": 0.0,
+              "token": ".\""
+            }
+          ],
+          "winner": {
+            "id": 2159,
+            "token": "ĠWorld"
+          },
+          "tie": false
+        }
+      ]
+    },
+    {
+      "layer": 6,
+      "groups": [
+        {
+          "candidates": [
+            {
+              "id": 11,
+              "g": 0.0,
+              "token": ","
+            },
+            {
+              "id": 2159,
+              "g": 0.0,
+              "token": "ĠWorld"
+            }
+          ],
+          "winner": {
+            "id": 11,
+            "token": ","
+          },
+          "tie": true
+        }
+      ]
+    }
+  ],
+  "final_winner": {
+    "id": 11,
+    "token": ","
+  },
+  "top_probs": [
+    {
+      "rank": 1,
+      "id": 812,
+      "token": "Ġyears",
+      "p": 0.10946797579526901
+    },
+    {
+      "rank": 2,
+      "id": 6,
+      "token": "'",
+      "p": 0.09852629899978638
+    },
+    {
+      "rank": 3,
+      "id": 1528,
+      "token": "Ġdays",
+      "p": 0.09591773897409439
+    },
+    {
+      "rank": 4,
+      "id": 2745,
+      "token": "Ġweeks",
+      "p": 0.05417610704898834
+    },
+    {
+      "rank": 5,
+      "id": 1933,
+      "token": "Ġmonths",
+      "p": 0.030711697414517403
+    },
+    {
+      "rank": 6,
+      "id": 12,
+      "token": "-",
+      "p": 0.025474686175584793
+    },
+    {
+      "rank": 7,
+      "id": 2250,
+      "token": "Ġhours",
+      "p": 0.0218257587403059
+    },
+    {
+      "rank": 8,
+      "id": 4458,
+      "token": "'.",
+      "p": 0.021751120686531067
+    },
+    {
+      "rank": 9,
+      "id": 4647,
+      "token": "Ġdecades",
+      "p": 0.01346041914075613
+    },
+    {
+      "rank": 10,
+      "id": 11,
+      "token": ",",
+      "p": 0.012810355983674526
+    },
+    {
+      "rank": 11,
+      "id": 2431,
+      "token": "Ġminutes",
+      "p": 0.012634960934519768
+    },
+    {
+      "rank": 12,
+      "id": 517,
+      "token": "Ġmore",
+      "p": 0.010627777315676212
+    },
+    {
+      "rank": 13,
+      "id": 2637,
+      "token": ".'",
+      "p": 0.010548772290349007
+    },
+    {
+      "rank": 14,
+      "id": 3625,
+      "token": "Ġfeet",
+      "p": 0.010296081192791462
+    },
+    {
+      "rank": 15,
+      "id": 3840,
+      "token": "Ġreasons",
+      "p": 0.010127024725079536
+    }
+  ],
+  "selected": {
+    "id": 11,
+    "token": ",",
+    "p": 0.012810355983674526
+  },
+  "step": 36,
+  "m_layers": 6,
+  "group_size": 2,
+  "g_dist": "bernoulli",
+  "H_window": 4,
+  "nsec": 128,
+  "temperature": 1.0,
+  "top_k": null,
+  "top_p": null
+}

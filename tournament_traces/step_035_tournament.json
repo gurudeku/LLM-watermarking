@@ -1,0 +1,1664 @@
+{
+  "seed_rt": 158473136314833308194841138128301627047,
+  "initial_candidates": [
+    {
+      "id": 37035,
+      "p": 0.0017491440521553159,
+      "token": "hate"
+    },
+    {
+      "id": 18378,
+      "p": 5.391249942476861e-06,
+      "token": "Edit"
+    },
+    {
+      "id": 37814,
+      "p": 0.0010019078617915511,
+      "token": "everything"
+    },
+    {
+      "id": 6098,
+      "p": 0.0012209037085995078,
+      "token": "cr"
+    },
+    {
+      "id": 5420,
+      "p": 0.0017742912750691175,
+      "token": "ref"
+    },
+    {
+      "id": 26531,
+      "p": 0.002143586752936244,
+      "token": "Da"
+    },
+    {
+      "id": 282,
+      "p": 0.004987487569451332,
+      "token": "al"
+    },
+    {
+      "id": 1084,
+      "p": 0.00011988013284280896,
+      "token": "min"
+    },
+    {
+      "id": 11545,
+      "p": 0.000562401139177382,
+      "token": "two"
+    },
+    {
+      "id": 15883,
+      "p": 0.00022034028370399028,
+      "token": "make"
+    },
+    {
+      "id": 9930,
+      "p": 0.0015831522177904844,
+      "token": "they"
+    },
+    {
+      "id": 1939,
+      "p": 0.0012995360884815454,
+      "token": "inc"
+    },
+    {
+      "id": 3673,
+      "p": 0.00015438311675097793,
+      "token": "Not"
+    },
+    {
+      "id": 321,
+      "p": 0.0002735930902417749,
+      "token": "am"
+    },
+    {
+      "id": 73,
+      "p": 0.0026425772812217474,
+      "token": "j"
+    },
+    {
+      "id": 48620,
+      "p": 0.005010026972740889,
+      "token": "Allah"
+    },
+    {
+      "id": 1169,
+      "p": 0.03519849479198456,
+      "token": "the"
+    },
+    {
+      "id": 82,
+      "p": 0.007819884456694126,
+      "token": "s"
+    },
+    {
+      "id": 1169,
+      "p": 0.03519849479198456,
+      "token": "the"
+    },
+    {
+      "id": 11274,
+      "p": 0.013384531252086163,
+      "token": "good"
+    },
+    {
+      "id": 29322,
+      "p": 0.005906362552195787,
+      "token": "ISIS"
+    },
+    {
+      "id": 89,
+      "p": 0.0013009447138756514,
+      "token": "z"
+    },
+    {
+      "id": 13120,
+      "p": 0.00020671436504926533,
+      "token": "friendly"
+    },
+    {
+      "id": 6381,
+      "p": 0.000643498613499105,
+      "token": "dis"
+    },
+    {
+      "id": 3137,
+      "p": 0.002850252902135253,
+      "token": "just"
+    },
+    {
+      "id": 47350,
+      "p": 0.0002790509315673262,
+      "token": "speak"
+    },
+    {
+      "id": 25662,
+      "p": 0.00013546113041229546,
+      "token": "street"
+    },
+    {
+      "id": 9948,
+      "p": 0.001553799258545041,
+      "token": "cal"
+    },
+    {
+      "id": 896,
+      "p": 0.0037018079310655594,
+      "token": "its"
+    },
+    {
+      "id": 1507,
+      "p": 0.0004098510544281453,
+      "token": "18"
+    },
+    {
+      "id": 2327,
+      "p": 0.00017029565060511231,
+      "token": "35"
+    },
+    {
+      "id": 41295,
+      "p": 0.009579296223819256,
+      "token": "freedom"
+    },
+    {
+      "id": 14463,
+      "p": 0.0006752508925274014,
+      "token": "winning"
+    },
+    {
+      "id": 42017,
+      "p": 0.0015974448760971427,
+      "token": "democracy"
+    },
+    {
+      "id": 1102,
+      "p": 0.0008996336837299168,
+      "token": "con"
+    },
+    {
+      "id": 29322,
+      "p": 0.005906362552195787,
+      "token": "ISIS"
+    },
+    {
+      "id": 39541,
+      "p": 0.000232768346904777,
+      "token": "practice"
+    },
+    {
+      "id": 44287,
+      "p": 0.004628712311387062,
+      "token": "holy"
+    },
+    {
+      "id": 69,
+      "p": 0.002598830498754978,
+      "token": "f"
+    },
+    {
+      "id": 45,
+      "p": 0.0006721361423842609,
+      "token": "N"
+    },
+    {
+      "id": 1169,
+      "p": 0.03519849479198456,
+      "token": "the"
+    },
+    {
+      "id": 41996,
+      "p": 0.00146637880243361,
+      "token": "moral"
+    },
+    {
+      "id": 41509,
+      "p": 2.864791349566076e-05,
+      "token": "commit"
+    },
+    {
+      "id": 368,
+      "p": 0.06095876544713974,
+      "token": "em"
+    },
+    {
+      "id": 19541,
+      "p": 0.004826594144105911,
+      "token": "terrorism"
+    },
+    {
+      "id": 13801,
+      "p": 6.371256313286722e-05,
+      "token": "overs"
+    },
+    {
+      "id": 33203,
+      "p": 0.0068849315866827965,
+      "token": "liber"
+    },
+    {
+      "id": 1415,
+      "p": 0.0008583644521422684,
+      "token": "14"
+    },
+    {
+      "id": 3927,
+      "p": 0.00010250136983813718,
+      "token": "miss"
+    },
+    {
+      "id": 3506,
+      "p": 0.0015456174733117223,
+      "token": "right"
+    },
+    {
+      "id": 1169,
+      "p": 0.03519849479198456,
+      "token": "the"
+    },
+    {
+      "id": 37,
+      "p": 0.0013798073632642627,
+      "token": "F"
+    },
+    {
+      "id": 40044,
+      "p": 0.00016591220628470182,
+      "token": "joining"
+    },
+    {
+      "id": 29322,
+      "p": 0.005906362552195787,
+      "token": "ISIS"
+    },
+    {
+      "id": 2484,
+      "p": 0.011270561255514622,
+      "token": "Sh"
+    },
+    {
+      "id": 3137,
+      "p": 0.002850252902135253,
+      "token": "just"
+    },
+    {
+      "id": 39541,
+      "p": 0.000232768346904777,
+      "token": "practice"
+    },
+    {
+      "id": 13049,
+      "p": 0.0005141781875863671,
+      "token": "fix"
+    },
+    {
+      "id": 43478,
+      "p": 0.0005743385409004986,
+      "token": "Sham"
+    },
+    {
+      "id": 36460,
+      "p": 0.0014636515406891704,
+      "token": "wrong"
+    },
+    {
+      "id": 1662,
+      "p": 0.0006435526884160936,
+      "token": "not"
+    },
+    {
+      "id": 26103,
+      "p": 0.0019539031200110912,
+      "token": "taking"
+    },
+    {
+      "id": 332,
+      "p": 4.895309029961936e-05,
+      "token": "ver"
+    },
+    {
+      "id": 660,
+      "p": 0.0006485407357104123,
+      "token": "te"
+    }
+  ],
+  "layers": [
+    {
+      "layer": 1,
+      "groups": [
+        {
+          "candidates": [
+            {
+              "id": 13049,
+              "g": 1.0,
+              "token": "fix"
+            },
+            {
+              "id": 42017,
+              "g": 0.0,
+              "token": "democracy"
+            }
+          ],
+          "winner": {
+            "id": 13049,
+            "token": "fix"
+          },
+          "tie": false
+        },
+        {
+          "candidates": [
+            {
+              "id": 282,
+              "g": 1.0,
+              "token": "al"
+            },
+            {
+              "id": 3137,
+              "g": 1.0,
+              "token": "just"
+            }
+          ],
+          "winner": {
+            "id": 282,
+            "token": "al"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 40044,
+              "g": 0.0,
+              "token": "joining"
+            },
+            {
+              "id": 11545,
+              "g": 1.0,
+              "token": "two"
+            }
+          ],
+          "winner": {
+            "id": 11545,
+            "token": "two"
+          },
+          "tie": false
+        },
+        {
+          "candidates": [
+            {
+              "id": 9930,
+              "g": 0.0,
+              "token": "they"
+            },
+            {
+              "id": 660,
+              "g": 1.0,
+              "token": "te"
+            }
+          ],
+          "winner": {
+            "id": 660,
+            "token": "te"
+          },
+          "tie": false
+        },
+        {
+          "candidates": [
+            {
+              "id": 5420,
+              "g": 1.0,
+              "token": "ref"
+            },
+            {
+              "id": 25662,
+              "g": 0.0,
+              "token": "street"
+            }
+          ],
+          "winner": {
+            "id": 5420,
+            "token": "ref"
+          },
+          "tie": false
+        },
+        {
+          "candidates": [
+            {
+              "id": 13120,
+              "g": 0.0,
+              "token": "friendly"
+            },
+            {
+              "id": 332,
+              "g": 0.0,
+              "token": "ver"
+            }
+          ],
+          "winner": {
+            "id": 332,
+            "token": "ver"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 1169,
+              "g": 1.0,
+              "token": "the"
+            },
+            {
+              "id": 41509,
+              "g": 0.0,
+              "token": "commit"
+            }
+          ],
+          "winner": {
+            "id": 1169,
+            "token": "the"
+          },
+          "tie": false
+        },
+        {
+          "candidates": [
+            {
+              "id": 69,
+              "g": 0.0,
+              "token": "f"
+            },
+            {
+              "id": 33203,
+              "g": 1.0,
+              "token": "liber"
+            }
+          ],
+          "winner": {
+            "id": 33203,
+            "token": "liber"
+          },
+          "tie": false
+        },
+        {
+          "candidates": [
+            {
+              "id": 18378,
+              "g": 0.0,
+              "token": "Edit"
+            },
+            {
+              "id": 48620,
+              "g": 0.0,
+              "token": "Allah"
+            }
+          ],
+          "winner": {
+            "id": 18378,
+            "token": "Edit"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 29322,
+              "g": 0.0,
+              "token": "ISIS"
+            },
+            {
+              "id": 2484,
+              "g": 0.0,
+              "token": "Sh"
+            }
+          ],
+          "winner": {
+            "id": 29322,
+            "token": "ISIS"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 1507,
+              "g": 0.0,
+              "token": "18"
+            },
+            {
+              "id": 41996,
+              "g": 1.0,
+              "token": "moral"
+            }
+          ],
+          "winner": {
+            "id": 41996,
+            "token": "moral"
+          },
+          "tie": false
+        },
+        {
+          "candidates": [
+            {
+              "id": 73,
+              "g": 1.0,
+              "token": "j"
+            },
+            {
+              "id": 9948,
+              "g": 0.0,
+              "token": "cal"
+            }
+          ],
+          "winner": {
+            "id": 73,
+            "token": "j"
+          },
+          "tie": false
+        },
+        {
+          "candidates": [
+            {
+              "id": 19541,
+              "g": 0.0,
+              "token": "terrorism"
+            },
+            {
+              "id": 1084,
+              "g": 0.0,
+              "token": "min"
+            }
+          ],
+          "winner": {
+            "id": 19541,
+            "token": "terrorism"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 29322,
+              "g": 0.0,
+              "token": "ISIS"
+            },
+            {
+              "id": 3927,
+              "g": 1.0,
+              "token": "miss"
+            }
+          ],
+          "winner": {
+            "id": 3927,
+            "token": "miss"
+          },
+          "tie": false
+        },
+        {
+          "candidates": [
+            {
+              "id": 39541,
+              "g": 0.0,
+              "token": "practice"
+            },
+            {
+              "id": 896,
+              "g": 1.0,
+              "token": "its"
+            }
+          ],
+          "winner": {
+            "id": 896,
+            "token": "its"
+          },
+          "tie": false
+        },
+        {
+          "candidates": [
+            {
+              "id": 41295,
+              "g": 1.0,
+              "token": "freedom"
+            },
+            {
+              "id": 14463,
+              "g": 1.0,
+              "token": "winning"
+            }
+          ],
+          "winner": {
+            "id": 14463,
+            "token": "winning"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 29322,
+              "g": 0.0,
+              "token": "ISIS"
+            },
+            {
+              "id": 1169,
+              "g": 1.0,
+              "token": "the"
+            }
+          ],
+          "winner": {
+            "id": 1169,
+            "token": "the"
+          },
+          "tie": false
+        },
+        {
+          "candidates": [
+            {
+              "id": 3673,
+              "g": 1.0,
+              "token": "Not"
+            },
+            {
+              "id": 43478,
+              "g": 0.0,
+              "token": "Sham"
+            }
+          ],
+          "winner": {
+            "id": 3673,
+            "token": "Not"
+          },
+          "tie": false
+        },
+        {
+          "candidates": [
+            {
+              "id": 44287,
+              "g": 1.0,
+              "token": "holy"
+            },
+            {
+              "id": 13801,
+              "g": 0.0,
+              "token": "overs"
+            }
+          ],
+          "winner": {
+            "id": 44287,
+            "token": "holy"
+          },
+          "tie": false
+        },
+        {
+          "candidates": [
+            {
+              "id": 6381,
+              "g": 0.0,
+              "token": "dis"
+            },
+            {
+              "id": 1939,
+              "g": 1.0,
+              "token": "inc"
+            }
+          ],
+          "winner": {
+            "id": 1939,
+            "token": "inc"
+          },
+          "tie": false
+        },
+        {
+          "candidates": [
+            {
+              "id": 45,
+              "g": 1.0,
+              "token": "N"
+            },
+            {
+              "id": 37814,
+              "g": 0.0,
+              "token": "everything"
+            }
+          ],
+          "winner": {
+            "id": 45,
+            "token": "N"
+          },
+          "tie": false
+        },
+        {
+          "candidates": [
+            {
+              "id": 2327,
+              "g": 1.0,
+              "token": "35"
+            },
+            {
+              "id": 3137,
+              "g": 1.0,
+              "token": "just"
+            }
+          ],
+          "winner": {
+            "id": 3137,
+            "token": "just"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 89,
+              "g": 1.0,
+              "token": "z"
+            },
+            {
+              "id": 6098,
+              "g": 1.0,
+              "token": "cr"
+            }
+          ],
+          "winner": {
+            "id": 89,
+            "token": "z"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 1102,
+              "g": 1.0,
+              "token": "con"
+            },
+            {
+              "id": 82,
+              "g": 0.0,
+              "token": "s"
+            }
+          ],
+          "winner": {
+            "id": 1102,
+            "token": "con"
+          },
+          "tie": false
+        },
+        {
+          "candidates": [
+            {
+              "id": 1415,
+              "g": 0.0,
+              "token": "14"
+            },
+            {
+              "id": 368,
+              "g": 0.0,
+              "token": "em"
+            }
+          ],
+          "winner": {
+            "id": 368,
+            "token": "em"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 1169,
+              "g": 1.0,
+              "token": "the"
+            },
+            {
+              "id": 15883,
+              "g": 1.0,
+              "token": "make"
+            }
+          ],
+          "winner": {
+            "id": 15883,
+            "token": "make"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 39541,
+              "g": 0.0,
+              "token": "practice"
+            },
+            {
+              "id": 1662,
+              "g": 1.0,
+              "token": "not"
+            }
+          ],
+          "winner": {
+            "id": 1662,
+            "token": "not"
+          },
+          "tie": false
+        },
+        {
+          "candidates": [
+            {
+              "id": 26103,
+              "g": 1.0,
+              "token": "taking"
+            },
+            {
+              "id": 37035,
+              "g": 0.0,
+              "token": "hate"
+            }
+          ],
+          "winner": {
+            "id": 26103,
+            "token": "taking"
+          },
+          "tie": false
+        },
+        {
+          "candidates": [
+            {
+              "id": 36460,
+              "g": 1.0,
+              "token": "wrong"
+            },
+            {
+              "id": 3506,
+              "g": 1.0,
+              "token": "right"
+            }
+          ],
+          "winner": {
+            "id": 36460,
+            "token": "wrong"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 26531,
+              "g": 1.0,
+              "token": "Da"
+            },
+            {
+              "id": 1169,
+              "g": 1.0,
+              "token": "the"
+            }
+          ],
+          "winner": {
+            "id": 26531,
+            "token": "Da"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 47350,
+              "g": 0.0,
+              "token": "speak"
+            },
+            {
+              "id": 321,
+              "g": 0.0,
+              "token": "am"
+            }
+          ],
+          "winner": {
+            "id": 321,
+            "token": "am"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 37,
+              "g": 0.0,
+              "token": "F"
+            },
+            {
+              "id": 11274,
+              "g": 1.0,
+              "token": "good"
+            }
+          ],
+          "winner": {
+            "id": 11274,
+            "token": "good"
+          },
+          "tie": false
+        }
+      ]
+    },
+    {
+      "layer": 2,
+      "groups": [
+        {
+          "candidates": [
+            {
+              "id": 660,
+              "g": 0.0,
+              "token": "te"
+            },
+            {
+              "id": 332,
+              "g": 0.0,
+              "token": "ver"
+            }
+          ],
+          "winner": {
+            "id": 660,
+            "token": "te"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 1939,
+              "g": 1.0,
+              "token": "inc"
+            },
+            {
+              "id": 282,
+              "g": 0.0,
+              "token": "al"
+            }
+          ],
+          "winner": {
+            "id": 1939,
+            "token": "inc"
+          },
+          "tie": false
+        },
+        {
+          "candidates": [
+            {
+              "id": 19541,
+              "g": 0.0,
+              "token": "terrorism"
+            },
+            {
+              "id": 3927,
+              "g": 0.0,
+              "token": "miss"
+            }
+          ],
+          "winner": {
+            "id": 19541,
+            "token": "terrorism"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 73,
+              "g": 1.0,
+              "token": "j"
+            },
+            {
+              "id": 368,
+              "g": 0.0,
+              "token": "em"
+            }
+          ],
+          "winner": {
+            "id": 73,
+            "token": "j"
+          },
+          "tie": false
+        },
+        {
+          "candidates": [
+            {
+              "id": 33203,
+              "g": 0.0,
+              "token": "liber"
+            },
+            {
+              "id": 11274,
+              "g": 0.0,
+              "token": "good"
+            }
+          ],
+          "winner": {
+            "id": 11274,
+            "token": "good"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 15883,
+              "g": 1.0,
+              "token": "make"
+            },
+            {
+              "id": 5420,
+              "g": 1.0,
+              "token": "ref"
+            }
+          ],
+          "winner": {
+            "id": 15883,
+            "token": "make"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 1169,
+              "g": 0.0,
+              "token": "the"
+            },
+            {
+              "id": 14463,
+              "g": 1.0,
+              "token": "winning"
+            }
+          ],
+          "winner": {
+            "id": 14463,
+            "token": "winning"
+          },
+          "tie": false
+        },
+        {
+          "candidates": [
+            {
+              "id": 896,
+              "g": 1.0,
+              "token": "its"
+            },
+            {
+              "id": 1169,
+              "g": 0.0,
+              "token": "the"
+            }
+          ],
+          "winner": {
+            "id": 896,
+            "token": "its"
+          },
+          "tie": false
+        },
+        {
+          "candidates": [
+            {
+              "id": 3673,
+              "g": 1.0,
+              "token": "Not"
+            },
+            {
+              "id": 18378,
+              "g": 0.0,
+              "token": "Edit"
+            }
+          ],
+          "winner": {
+            "id": 3673,
+            "token": "Not"
+          },
+          "tie": false
+        },
+        {
+          "candidates": [
+            {
+              "id": 11545,
+              "g": 1.0,
+              "token": "two"
+            },
+            {
+              "id": 26103,
+              "g": 0.0,
+              "token": "taking"
+            }
+          ],
+          "winner": {
+            "id": 11545,
+            "token": "two"
+          },
+          "tie": false
+        },
+        {
+          "candidates": [
+            {
+              "id": 44287,
+              "g": 1.0,
+              "token": "holy"
+            },
+            {
+              "id": 41996,
+              "g": 0.0,
+              "token": "moral"
+            }
+          ],
+          "winner": {
+            "id": 44287,
+            "token": "holy"
+          },
+          "tie": false
+        },
+        {
+          "candidates": [
+            {
+              "id": 29322,
+              "g": 0.0,
+              "token": "ISIS"
+            },
+            {
+              "id": 13049,
+              "g": 0.0,
+              "token": "fix"
+            }
+          ],
+          "winner": {
+            "id": 13049,
+            "token": "fix"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 1662,
+              "g": 1.0,
+              "token": "not"
+            },
+            {
+              "id": 321,
+              "g": 1.0,
+              "token": "am"
+            }
+          ],
+          "winner": {
+            "id": 321,
+            "token": "am"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 89,
+              "g": 1.0,
+              "token": "z"
+            },
+            {
+              "id": 26531,
+              "g": 1.0,
+              "token": "Da"
+            }
+          ],
+          "winner": {
+            "id": 26531,
+            "token": "Da"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 36460,
+              "g": 1.0,
+              "token": "wrong"
+            },
+            {
+              "id": 3137,
+              "g": 0.0,
+              "token": "just"
+            }
+          ],
+          "winner": {
+            "id": 36460,
+            "token": "wrong"
+          },
+          "tie": false
+        },
+        {
+          "candidates": [
+            {
+              "id": 45,
+              "g": 1.0,
+              "token": "N"
+            },
+            {
+              "id": 1102,
+              "g": 1.0,
+              "token": "con"
+            }
+          ],
+          "winner": {
+            "id": 45,
+            "token": "N"
+          },
+          "tie": true
+        }
+      ]
+    },
+    {
+      "layer": 3,
+      "groups": [
+        {
+          "candidates": [
+            {
+              "id": 11274,
+              "g": 1.0,
+              "token": "good"
+            },
+            {
+              "id": 26531,
+              "g": 1.0,
+              "token": "Da"
+            }
+          ],
+          "winner": {
+            "id": 11274,
+            "token": "good"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 660,
+              "g": 1.0,
+              "token": "te"
+            },
+            {
+              "id": 1939,
+              "g": 1.0,
+              "token": "inc"
+            }
+          ],
+          "winner": {
+            "id": 660,
+            "token": "te"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 15883,
+              "g": 1.0,
+              "token": "make"
+            },
+            {
+              "id": 45,
+              "g": 1.0,
+              "token": "N"
+            }
+          ],
+          "winner": {
+            "id": 45,
+            "token": "N"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 36460,
+              "g": 1.0,
+              "token": "wrong"
+            },
+            {
+              "id": 321,
+              "g": 0.0,
+              "token": "am"
+            }
+          ],
+          "winner": {
+            "id": 36460,
+            "token": "wrong"
+          },
+          "tie": false
+        },
+        {
+          "candidates": [
+            {
+              "id": 19541,
+              "g": 0.0,
+              "token": "terrorism"
+            },
+            {
+              "id": 3673,
+              "g": 0.0,
+              "token": "Not"
+            }
+          ],
+          "winner": {
+            "id": 3673,
+            "token": "Not"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 13049,
+              "g": 0.0,
+              "token": "fix"
+            },
+            {
+              "id": 14463,
+              "g": 0.0,
+              "token": "winning"
+            }
+          ],
+          "winner": {
+            "id": 13049,
+            "token": "fix"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 73,
+              "g": 0.0,
+              "token": "j"
+            },
+            {
+              "id": 896,
+              "g": 0.0,
+              "token": "its"
+            }
+          ],
+          "winner": {
+            "id": 73,
+            "token": "j"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 44287,
+              "g": 0.0,
+              "token": "holy"
+            },
+            {
+              "id": 11545,
+              "g": 1.0,
+              "token": "two"
+            }
+          ],
+          "winner": {
+            "id": 11545,
+            "token": "two"
+          },
+          "tie": false
+        }
+      ]
+    },
+    {
+      "layer": 4,
+      "groups": [
+        {
+          "candidates": [
+            {
+              "id": 45,
+              "g": 0.0,
+              "token": "N"
+            },
+            {
+              "id": 73,
+              "g": 1.0,
+              "token": "j"
+            }
+          ],
+          "winner": {
+            "id": 73,
+            "token": "j"
+          },
+          "tie": false
+        },
+        {
+          "candidates": [
+            {
+              "id": 660,
+              "g": 1.0,
+              "token": "te"
+            },
+            {
+              "id": 3673,
+              "g": 0.0,
+              "token": "Not"
+            }
+          ],
+          "winner": {
+            "id": 660,
+            "token": "te"
+          },
+          "tie": false
+        },
+        {
+          "candidates": [
+            {
+              "id": 13049,
+              "g": 0.0,
+              "token": "fix"
+            },
+            {
+              "id": 11545,
+              "g": 1.0,
+              "token": "two"
+            }
+          ],
+          "winner": {
+            "id": 11545,
+            "token": "two"
+          },
+          "tie": false
+        },
+        {
+          "candidates": [
+            {
+              "id": 36460,
+              "g": 0.0,
+              "token": "wrong"
+            },
+            {
+              "id": 11274,
+              "g": 0.0,
+              "token": "good"
+            }
+          ],
+          "winner": {
+            "id": 36460,
+            "token": "wrong"
+          },
+          "tie": true
+        }
+      ]
+    },
+    {
+      "layer": 5,
+      "groups": [
+        {
+          "candidates": [
+            {
+              "id": 660,
+              "g": 1.0,
+              "token": "te"
+            },
+            {
+              "id": 73,
+              "g": 0.0,
+              "token": "j"
+            }
+          ],
+          "winner": {
+            "id": 660,
+            "token": "te"
+          },
+          "tie": false
+        },
+        {
+          "candidates": [
+            {
+              "id": 11545,
+              "g": 1.0,
+              "token": "two"
+            },
+            {
+              "id": 36460,
+              "g": 1.0,
+              "token": "wrong"
+            }
+          ],
+          "winner": {
+            "id": 11545,
+            "token": "two"
+          },
+          "tie": true
+        }
+      ]
+    },
+    {
+      "layer": 6,
+      "groups": [
+        {
+          "candidates": [
+            {
+              "id": 11545,
+              "g": 0.0,
+              "token": "two"
+            },
+            {
+              "id": 660,
+              "g": 0.0,
+              "token": "te"
+            }
+          ],
+          "winner": {
+            "id": 11545,
+            "token": "two"
+          },
+          "tie": true
+        }
+      ]
+    }
+  ],
+  "final_winner": {
+    "id": 11545,
+    "token": "two"
+  },
+  "top_probs": [
+    {
+      "rank": 1,
+      "id": 368,
+      "token": "em",
+      "p": 0.06095876544713974
+    },
+    {
+      "rank": 2,
+      "id": 1169,
+      "token": "the",
+      "p": 0.03519849479198456
+    },
+    {
+      "rank": 3,
+      "id": 16991,
+      "token": "Islam",
+      "p": 0.016213703900575638
+    },
+    {
+      "rank": 4,
+      "id": 26723,
+      "token": "Islamic",
+      "p": 0.01444466132670641
+    },
+    {
+      "rank": 5,
+      "id": 11274,
+      "token": "good",
+      "p": 0.013384531252086163
+    },
+    {
+      "rank": 6,
+      "id": 2484,
+      "token": "Sh",
+      "p": 0.011270561255514622
+    },
+    {
+      "rank": 7,
+      "id": 41295,
+      "token": "freedom",
+      "p": 0.009579296223819256
+    },
+    {
+      "rank": 8,
+      "id": 31206,
+      "token": "Iraq",
+      "p": 0.009496196173131466
+    },
+    {
+      "rank": 9,
+      "id": 454,
+      "token": "our",
+      "p": 0.008983206935226917
+    },
+    {
+      "rank": 10,
+      "id": 47189,
+      "token": "moderate",
+      "p": 0.008363565430045128
+    },
+    {
+      "rank": 11,
+      "id": 385,
+      "token": "us",
+      "p": 0.007995501160621643
+    },
+    {
+      "rank": 12,
+      "id": 82,
+      "token": "s",
+      "p": 0.007819884456694126
+    },
+    {
+      "rank": 13,
+      "id": 464,
+      "token": "The",
+      "p": 0.007436495739966631
+    },
+    {
+      "rank": 14,
+      "id": 1477,
+      "token": "sh",
+      "p": 0.00730887008830905
+    },
+    {
+      "rank": 15,
+      "id": 40,
+      "token": "I",
+      "p": 0.007192043587565422
+    }
+  ],
+  "selected": {
+    "id": 11545,
+    "token": "two",
+    "p": 0.000562401139177382
+  },
+  "step": 35,
+  "m_layers": 6,
+  "group_size": 2,
+  "g_dist": "bernoulli",
+  "H_window": 4,
+  "nsec": 128,
+  "temperature": 1.0,
+  "top_k": null,
+  "top_p": null
+}

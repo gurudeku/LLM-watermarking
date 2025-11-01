@@ -1,0 +1,1664 @@
+{
+  "seed_rt": 69514136794732345815605958490639185827,
+  "initial_candidates": [
+    {
+      "id": 2081,
+      "p": 0.23248298466205597,
+      "token": "Ġtrue"
+    },
+    {
+      "id": 1107,
+      "p": 0.014791328459978104,
+      "token": "Ġreally"
+    },
+    {
+      "id": 2081,
+      "p": 0.23248298466205597,
+      "token": "Ġtrue"
+    },
+    {
+      "id": 407,
+      "p": 0.05830834433436394,
+      "token": "Ġnot"
+    },
+    {
+      "id": 20681,
+      "p": 2.5542365619912744e-05,
+      "token": "Ġsci"
+    },
+    {
+      "id": 2081,
+      "p": 0.23248298466205597,
+      "token": "Ġtrue"
+    },
+    {
+      "id": 1744,
+      "p": 0.005994777195155621,
+      "token": "Ġpossible"
+    },
+    {
+      "id": 2081,
+      "p": 0.23248298466205597,
+      "token": "Ġtrue"
+    },
+    {
+      "id": 1802,
+      "p": 0.0003696021158248186,
+      "token": "Ġ100"
+    },
+    {
+      "id": 13,
+      "p": 0.0026072016917169094,
+      "token": "."
+    },
+    {
+      "id": 407,
+      "p": 0.05830834433436394,
+      "token": "Ġnot"
+    },
+    {
+      "id": 546,
+      "p": 0.0042433831840753555,
+      "token": "Ġabout"
+    },
+    {
+      "id": 2562,
+      "p": 0.0024299195501953363,
+      "token": "Ġeasy"
+    },
+    {
+      "id": 2081,
+      "p": 0.23248298466205597,
+      "token": "Ġtrue"
+    },
+    {
+      "id": 407,
+      "p": 0.05830834433436394,
+      "token": "Ġnot"
+    },
+    {
+      "id": 2081,
+      "p": 0.23248298466205597,
+      "token": "Ġtrue"
+    },
+    {
+      "id": 257,
+      "p": 0.051481667906045914,
+      "token": "Ġa"
+    },
+    {
+      "id": 1057,
+      "p": 4.816786531591788e-05,
+      "token": "Ġrun"
+    },
+    {
+      "id": 2081,
+      "p": 0.23248298466205597,
+      "token": "Ġtrue"
+    },
+    {
+      "id": 2081,
+      "p": 0.23248298466205597,
+      "token": "Ġtrue"
+    },
+    {
+      "id": 2081,
+      "p": 0.23248298466205597,
+      "token": "Ġtrue"
+    },
+    {
+      "id": 2081,
+      "p": 0.23248298466205597,
+      "token": "Ġtrue"
+    },
+    {
+      "id": 635,
+      "p": 0.054740943014621735,
+      "token": "Ġalso"
+    },
+    {
+      "id": 2081,
+      "p": 0.23248298466205597,
+      "token": "Ġtrue"
+    },
+    {
+      "id": 2081,
+      "p": 0.23248298466205597,
+      "token": "Ġtrue"
+    },
+    {
+      "id": 2081,
+      "p": 0.23248298466205597,
+      "token": "Ġtrue"
+    },
+    {
+      "id": 2081,
+      "p": 0.23248298466205597,
+      "token": "Ġtrue"
+    },
+    {
+      "id": 991,
+      "p": 0.02523433417081833,
+      "token": "Ġstill"
+    },
+    {
+      "id": 1365,
+      "p": 0.002077659359201789,
+      "token": "Ġbetter"
+    },
+    {
+      "id": 2081,
+      "p": 0.23248298466205597,
+      "token": "Ġtrue"
+    },
+    {
+      "id": 1682,
+      "p": 0.031603649258613586,
+      "token": "Ġactually"
+    },
+    {
+      "id": 1290,
+      "p": 0.003331889631226659,
+      "token": "Ġfar"
+    },
+    {
+      "id": 407,
+      "p": 0.05830834433436394,
+      "token": "Ġnot"
+    },
+    {
+      "id": 257,
+      "p": 0.051481667906045914,
+      "token": "Ġa"
+    },
+    {
+      "id": 674,
+      "p": 0.002050667069852352,
+      "token": "Ġour"
+    },
+    {
+      "id": 5543,
+      "p": 0.0072365449741482735,
+      "token": "Ġabsolutely"
+    },
+    {
+      "id": 2081,
+      "p": 0.23248298466205597,
+      "token": "Ġtrue"
+    },
+    {
+      "id": 1365,
+      "p": 0.002077659359201789,
+      "token": "Ġbetter"
+    },
+    {
+      "id": 4753,
+      "p": 0.008256831206381321,
+      "token": "Ġdefinitely"
+    },
+    {
+      "id": 655,
+      "p": 0.006882385816425085,
+      "token": "Ġjust"
+    },
+    {
+      "id": 2081,
+      "p": 0.23248298466205597,
+      "token": "Ġtrue"
+    },
+    {
+      "id": 281,
+      "p": 0.009151061065495014,
+      "token": "Ġan"
+    },
+    {
+      "id": 991,
+      "p": 0.02523433417081833,
+      "token": "Ġstill"
+    },
+    {
+      "id": 3729,
+      "p": 0.01174607127904892,
+      "token": "Ġcertainly"
+    },
+    {
+      "id": 973,
+      "p": 0.0002563227608334273,
+      "token": "Ġused"
+    },
+    {
+      "id": 407,
+      "p": 0.05830834433436394,
+      "token": "Ġnot"
+    },
+    {
+      "id": 674,
+      "p": 0.002050667069852352,
+      "token": "Ġour"
+    },
+    {
+      "id": 477,
+      "p": 0.004898920189589262,
+      "token": "Ġall"
+    },
+    {
+      "id": 546,
+      "p": 0.0042433831840753555,
+      "token": "Ġabout"
+    },
+    {
+      "id": 826,
+      "p": 0.004564171191304922,
+      "token": "Ġright"
+    },
+    {
+      "id": 655,
+      "p": 0.006882385816425085,
+      "token": "Ġjust"
+    },
+    {
+      "id": 1682,
+      "p": 0.031603649258613586,
+      "token": "Ġactually"
+    },
+    {
+      "id": 5543,
+      "p": 0.0072365449741482735,
+      "token": "Ġabsolutely"
+    },
+    {
+      "id": 6776,
+      "p": 0.001968484604731202,
+      "token": "Ġalive"
+    },
+    {
+      "id": 635,
+      "p": 0.054740943014621735,
+      "token": "Ġalso"
+    },
+    {
+      "id": 2081,
+      "p": 0.23248298466205597,
+      "token": "Ġtrue"
+    },
+    {
+      "id": 1327,
+      "p": 0.004400620236992836,
+      "token": "Ġhard"
+    },
+    {
+      "id": 4988,
+      "p": 0.004378483630716801,
+      "token": "Ġtruly"
+    },
+    {
+      "id": 262,
+      "p": 0.03013870306313038,
+      "token": "Ġthe"
+    },
+    {
+      "id": 1804,
+      "p": 0.0005293983267620206,
+      "token": "Ġdoing"
+    },
+    {
+      "id": 5033,
+      "p": 0.0012614144943654537,
+      "token": "Ġbecoming"
+    },
+    {
+      "id": 407,
+      "p": 0.05830834433436394,
+      "token": "Ġnot"
+    },
+    {
+      "id": 2081,
+      "p": 0.23248298466205597,
+      "token": "Ġtrue"
+    },
+    {
+      "id": 8603,
+      "p": 0.0018756631761789322,
+      "token": "Ġequally"
+    }
+  ],
+  "layers": [
+    {
+      "layer": 1,
+      "groups": [
+        {
+          "candidates": [
+            {
+              "id": 2081,
+              "g": 1.0,
+              "token": "Ġtrue"
+            },
+            {
+              "id": 2081,
+              "g": 1.0,
+              "token": "Ġtrue"
+            }
+          ],
+          "winner": {
+            "id": 2081,
+            "token": "Ġtrue"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 2081,
+              "g": 1.0,
+              "token": "Ġtrue"
+            },
+            {
+              "id": 973,
+              "g": 1.0,
+              "token": "Ġused"
+            }
+          ],
+          "winner": {
+            "id": 973,
+            "token": "Ġused"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 2081,
+              "g": 1.0,
+              "token": "Ġtrue"
+            },
+            {
+              "id": 1057,
+              "g": 1.0,
+              "token": "Ġrun"
+            }
+          ],
+          "winner": {
+            "id": 2081,
+            "token": "Ġtrue"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 3729,
+              "g": 0.0,
+              "token": "Ġcertainly"
+            },
+            {
+              "id": 1682,
+              "g": 1.0,
+              "token": "Ġactually"
+            }
+          ],
+          "winner": {
+            "id": 1682,
+            "token": "Ġactually"
+          },
+          "tie": false
+        },
+        {
+          "candidates": [
+            {
+              "id": 407,
+              "g": 0.0,
+              "token": "Ġnot"
+            },
+            {
+              "id": 655,
+              "g": 0.0,
+              "token": "Ġjust"
+            }
+          ],
+          "winner": {
+            "id": 407,
+            "token": "Ġnot"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 2081,
+              "g": 1.0,
+              "token": "Ġtrue"
+            },
+            {
+              "id": 20681,
+              "g": 0.0,
+              "token": "Ġsci"
+            }
+          ],
+          "winner": {
+            "id": 2081,
+            "token": "Ġtrue"
+          },
+          "tie": false
+        },
+        {
+          "candidates": [
+            {
+              "id": 1802,
+              "g": 1.0,
+              "token": "Ġ100"
+            },
+            {
+              "id": 991,
+              "g": 1.0,
+              "token": "Ġstill"
+            }
+          ],
+          "winner": {
+            "id": 991,
+            "token": "Ġstill"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 546,
+              "g": 0.0,
+              "token": "Ġabout"
+            },
+            {
+              "id": 2081,
+              "g": 1.0,
+              "token": "Ġtrue"
+            }
+          ],
+          "winner": {
+            "id": 2081,
+            "token": "Ġtrue"
+          },
+          "tie": false
+        },
+        {
+          "candidates": [
+            {
+              "id": 2081,
+              "g": 1.0,
+              "token": "Ġtrue"
+            },
+            {
+              "id": 1327,
+              "g": 0.0,
+              "token": "Ġhard"
+            }
+          ],
+          "winner": {
+            "id": 2081,
+            "token": "Ġtrue"
+          },
+          "tie": false
+        },
+        {
+          "candidates": [
+            {
+              "id": 5543,
+              "g": 1.0,
+              "token": "Ġabsolutely"
+            },
+            {
+              "id": 2081,
+              "g": 1.0,
+              "token": "Ġtrue"
+            }
+          ],
+          "winner": {
+            "id": 2081,
+            "token": "Ġtrue"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 5033,
+              "g": 0.0,
+              "token": "Ġbecoming"
+            },
+            {
+              "id": 2081,
+              "g": 1.0,
+              "token": "Ġtrue"
+            }
+          ],
+          "winner": {
+            "id": 2081,
+            "token": "Ġtrue"
+          },
+          "tie": false
+        },
+        {
+          "candidates": [
+            {
+              "id": 257,
+              "g": 1.0,
+              "token": "Ġa"
+            },
+            {
+              "id": 2081,
+              "g": 1.0,
+              "token": "Ġtrue"
+            }
+          ],
+          "winner": {
+            "id": 2081,
+            "token": "Ġtrue"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 2081,
+              "g": 1.0,
+              "token": "Ġtrue"
+            },
+            {
+              "id": 1804,
+              "g": 0.0,
+              "token": "Ġdoing"
+            }
+          ],
+          "winner": {
+            "id": 2081,
+            "token": "Ġtrue"
+          },
+          "tie": false
+        },
+        {
+          "candidates": [
+            {
+              "id": 674,
+              "g": 0.0,
+              "token": "Ġour"
+            },
+            {
+              "id": 407,
+              "g": 0.0,
+              "token": "Ġnot"
+            }
+          ],
+          "winner": {
+            "id": 407,
+            "token": "Ġnot"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 674,
+              "g": 0.0,
+              "token": "Ġour"
+            },
+            {
+              "id": 826,
+              "g": 0.0,
+              "token": "Ġright"
+            }
+          ],
+          "winner": {
+            "id": 674,
+            "token": "Ġour"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 991,
+              "g": 1.0,
+              "token": "Ġstill"
+            },
+            {
+              "id": 2081,
+              "g": 1.0,
+              "token": "Ġtrue"
+            }
+          ],
+          "winner": {
+            "id": 2081,
+            "token": "Ġtrue"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 1290,
+              "g": 0.0,
+              "token": "Ġfar"
+            },
+            {
+              "id": 546,
+              "g": 0.0,
+              "token": "Ġabout"
+            }
+          ],
+          "winner": {
+            "id": 546,
+            "token": "Ġabout"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 257,
+              "g": 1.0,
+              "token": "Ġa"
+            },
+            {
+              "id": 2081,
+              "g": 1.0,
+              "token": "Ġtrue"
+            }
+          ],
+          "winner": {
+            "id": 257,
+            "token": "Ġa"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 2081,
+              "g": 1.0,
+              "token": "Ġtrue"
+            },
+            {
+              "id": 5543,
+              "g": 1.0,
+              "token": "Ġabsolutely"
+            }
+          ],
+          "winner": {
+            "id": 5543,
+            "token": "Ġabsolutely"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 1365,
+              "g": 0.0,
+              "token": "Ġbetter"
+            },
+            {
+              "id": 2081,
+              "g": 1.0,
+              "token": "Ġtrue"
+            }
+          ],
+          "winner": {
+            "id": 2081,
+            "token": "Ġtrue"
+          },
+          "tie": false
+        },
+        {
+          "candidates": [
+            {
+              "id": 6776,
+              "g": 1.0,
+              "token": "Ġalive"
+            },
+            {
+              "id": 2562,
+              "g": 0.0,
+              "token": "Ġeasy"
+            }
+          ],
+          "winner": {
+            "id": 6776,
+            "token": "Ġalive"
+          },
+          "tie": false
+        },
+        {
+          "candidates": [
+            {
+              "id": 4753,
+              "g": 1.0,
+              "token": "Ġdefinitely"
+            },
+            {
+              "id": 635,
+              "g": 0.0,
+              "token": "Ġalso"
+            }
+          ],
+          "winner": {
+            "id": 4753,
+            "token": "Ġdefinitely"
+          },
+          "tie": false
+        },
+        {
+          "candidates": [
+            {
+              "id": 635,
+              "g": 0.0,
+              "token": "Ġalso"
+            },
+            {
+              "id": 8603,
+              "g": 1.0,
+              "token": "Ġequally"
+            }
+          ],
+          "winner": {
+            "id": 8603,
+            "token": "Ġequally"
+          },
+          "tie": false
+        },
+        {
+          "candidates": [
+            {
+              "id": 13,
+              "g": 1.0,
+              "token": "."
+            },
+            {
+              "id": 407,
+              "g": 0.0,
+              "token": "Ġnot"
+            }
+          ],
+          "winner": {
+            "id": 13,
+            "token": "."
+          },
+          "tie": false
+        },
+        {
+          "candidates": [
+            {
+              "id": 1744,
+              "g": 1.0,
+              "token": "Ġpossible"
+            },
+            {
+              "id": 2081,
+              "g": 1.0,
+              "token": "Ġtrue"
+            }
+          ],
+          "winner": {
+            "id": 1744,
+            "token": "Ġpossible"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 2081,
+              "g": 1.0,
+              "token": "Ġtrue"
+            },
+            {
+              "id": 1682,
+              "g": 1.0,
+              "token": "Ġactually"
+            }
+          ],
+          "winner": {
+            "id": 2081,
+            "token": "Ġtrue"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 407,
+              "g": 0.0,
+              "token": "Ġnot"
+            },
+            {
+              "id": 2081,
+              "g": 1.0,
+              "token": "Ġtrue"
+            }
+          ],
+          "winner": {
+            "id": 2081,
+            "token": "Ġtrue"
+          },
+          "tie": false
+        },
+        {
+          "candidates": [
+            {
+              "id": 262,
+              "g": 1.0,
+              "token": "Ġthe"
+            },
+            {
+              "id": 281,
+              "g": 0.0,
+              "token": "Ġan"
+            }
+          ],
+          "winner": {
+            "id": 262,
+            "token": "Ġthe"
+          },
+          "tie": false
+        },
+        {
+          "candidates": [
+            {
+              "id": 655,
+              "g": 0.0,
+              "token": "Ġjust"
+            },
+            {
+              "id": 1107,
+              "g": 0.0,
+              "token": "Ġreally"
+            }
+          ],
+          "winner": {
+            "id": 1107,
+            "token": "Ġreally"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 4988,
+              "g": 0.0,
+              "token": "Ġtruly"
+            },
+            {
+              "id": 407,
+              "g": 0.0,
+              "token": "Ġnot"
+            }
+          ],
+          "winner": {
+            "id": 4988,
+            "token": "Ġtruly"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 2081,
+              "g": 1.0,
+              "token": "Ġtrue"
+            },
+            {
+              "id": 407,
+              "g": 0.0,
+              "token": "Ġnot"
+            }
+          ],
+          "winner": {
+            "id": 2081,
+            "token": "Ġtrue"
+          },
+          "tie": false
+        },
+        {
+          "candidates": [
+            {
+              "id": 1365,
+              "g": 0.0,
+              "token": "Ġbetter"
+            },
+            {
+              "id": 477,
+              "g": 0.0,
+              "token": "Ġall"
+            }
+          ],
+          "winner": {
+            "id": 1365,
+            "token": "Ġbetter"
+          },
+          "tie": true
+        }
+      ]
+    },
+    {
+      "layer": 2,
+      "groups": [
+        {
+          "candidates": [
+            {
+              "id": 13,
+              "g": 0.0,
+              "token": "."
+            },
+            {
+              "id": 6776,
+              "g": 0.0,
+              "token": "Ġalive"
+            }
+          ],
+          "winner": {
+            "id": 13,
+            "token": "."
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 546,
+              "g": 0.0,
+              "token": "Ġabout"
+            },
+            {
+              "id": 2081,
+              "g": 1.0,
+              "token": "Ġtrue"
+            }
+          ],
+          "winner": {
+            "id": 2081,
+            "token": "Ġtrue"
+          },
+          "tie": false
+        },
+        {
+          "candidates": [
+            {
+              "id": 1682,
+              "g": 0.0,
+              "token": "Ġactually"
+            },
+            {
+              "id": 991,
+              "g": 1.0,
+              "token": "Ġstill"
+            }
+          ],
+          "winner": {
+            "id": 991,
+            "token": "Ġstill"
+          },
+          "tie": false
+        },
+        {
+          "candidates": [
+            {
+              "id": 2081,
+              "g": 1.0,
+              "token": "Ġtrue"
+            },
+            {
+              "id": 2081,
+              "g": 1.0,
+              "token": "Ġtrue"
+            }
+          ],
+          "winner": {
+            "id": 2081,
+            "token": "Ġtrue"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 2081,
+              "g": 1.0,
+              "token": "Ġtrue"
+            },
+            {
+              "id": 257,
+              "g": 0.0,
+              "token": "Ġa"
+            }
+          ],
+          "winner": {
+            "id": 2081,
+            "token": "Ġtrue"
+          },
+          "tie": false
+        },
+        {
+          "candidates": [
+            {
+              "id": 2081,
+              "g": 1.0,
+              "token": "Ġtrue"
+            },
+            {
+              "id": 2081,
+              "g": 1.0,
+              "token": "Ġtrue"
+            }
+          ],
+          "winner": {
+            "id": 2081,
+            "token": "Ġtrue"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 1365,
+              "g": 1.0,
+              "token": "Ġbetter"
+            },
+            {
+              "id": 4988,
+              "g": 1.0,
+              "token": "Ġtruly"
+            }
+          ],
+          "winner": {
+            "id": 4988,
+            "token": "Ġtruly"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 8603,
+              "g": 1.0,
+              "token": "Ġequally"
+            },
+            {
+              "id": 407,
+              "g": 0.0,
+              "token": "Ġnot"
+            }
+          ],
+          "winner": {
+            "id": 8603,
+            "token": "Ġequally"
+          },
+          "tie": false
+        },
+        {
+          "candidates": [
+            {
+              "id": 5543,
+              "g": 1.0,
+              "token": "Ġabsolutely"
+            },
+            {
+              "id": 2081,
+              "g": 1.0,
+              "token": "Ġtrue"
+            }
+          ],
+          "winner": {
+            "id": 5543,
+            "token": "Ġabsolutely"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 2081,
+              "g": 1.0,
+              "token": "Ġtrue"
+            },
+            {
+              "id": 1107,
+              "g": 0.0,
+              "token": "Ġreally"
+            }
+          ],
+          "winner": {
+            "id": 2081,
+            "token": "Ġtrue"
+          },
+          "tie": false
+        },
+        {
+          "candidates": [
+            {
+              "id": 2081,
+              "g": 1.0,
+              "token": "Ġtrue"
+            },
+            {
+              "id": 4753,
+              "g": 0.0,
+              "token": "Ġdefinitely"
+            }
+          ],
+          "winner": {
+            "id": 2081,
+            "token": "Ġtrue"
+          },
+          "tie": false
+        },
+        {
+          "candidates": [
+            {
+              "id": 2081,
+              "g": 1.0,
+              "token": "Ġtrue"
+            },
+            {
+              "id": 674,
+              "g": 1.0,
+              "token": "Ġour"
+            }
+          ],
+          "winner": {
+            "id": 2081,
+            "token": "Ġtrue"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 2081,
+              "g": 1.0,
+              "token": "Ġtrue"
+            },
+            {
+              "id": 973,
+              "g": 0.0,
+              "token": "Ġused"
+            }
+          ],
+          "winner": {
+            "id": 2081,
+            "token": "Ġtrue"
+          },
+          "tie": false
+        },
+        {
+          "candidates": [
+            {
+              "id": 2081,
+              "g": 1.0,
+              "token": "Ġtrue"
+            },
+            {
+              "id": 262,
+              "g": 0.0,
+              "token": "Ġthe"
+            }
+          ],
+          "winner": {
+            "id": 2081,
+            "token": "Ġtrue"
+          },
+          "tie": false
+        },
+        {
+          "candidates": [
+            {
+              "id": 407,
+              "g": 0.0,
+              "token": "Ġnot"
+            },
+            {
+              "id": 2081,
+              "g": 1.0,
+              "token": "Ġtrue"
+            }
+          ],
+          "winner": {
+            "id": 2081,
+            "token": "Ġtrue"
+          },
+          "tie": false
+        },
+        {
+          "candidates": [
+            {
+              "id": 2081,
+              "g": 1.0,
+              "token": "Ġtrue"
+            },
+            {
+              "id": 1744,
+              "g": 0.0,
+              "token": "Ġpossible"
+            }
+          ],
+          "winner": {
+            "id": 2081,
+            "token": "Ġtrue"
+          },
+          "tie": false
+        }
+      ]
+    },
+    {
+      "layer": 3,
+      "groups": [
+        {
+          "candidates": [
+            {
+              "id": 13,
+              "g": 1.0,
+              "token": "."
+            },
+            {
+              "id": 2081,
+              "g": 1.0,
+              "token": "Ġtrue"
+            }
+          ],
+          "winner": {
+            "id": 13,
+            "token": "."
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 2081,
+              "g": 1.0,
+              "token": "Ġtrue"
+            },
+            {
+              "id": 2081,
+              "g": 1.0,
+              "token": "Ġtrue"
+            }
+          ],
+          "winner": {
+            "id": 2081,
+            "token": "Ġtrue"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 2081,
+              "g": 1.0,
+              "token": "Ġtrue"
+            },
+            {
+              "id": 8603,
+              "g": 1.0,
+              "token": "Ġequally"
+            }
+          ],
+          "winner": {
+            "id": 8603,
+            "token": "Ġequally"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 4988,
+              "g": 1.0,
+              "token": "Ġtruly"
+            },
+            {
+              "id": 2081,
+              "g": 1.0,
+              "token": "Ġtrue"
+            }
+          ],
+          "winner": {
+            "id": 2081,
+            "token": "Ġtrue"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 2081,
+              "g": 1.0,
+              "token": "Ġtrue"
+            },
+            {
+              "id": 2081,
+              "g": 1.0,
+              "token": "Ġtrue"
+            }
+          ],
+          "winner": {
+            "id": 2081,
+            "token": "Ġtrue"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 2081,
+              "g": 1.0,
+              "token": "Ġtrue"
+            },
+            {
+              "id": 2081,
+              "g": 1.0,
+              "token": "Ġtrue"
+            }
+          ],
+          "winner": {
+            "id": 2081,
+            "token": "Ġtrue"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 991,
+              "g": 1.0,
+              "token": "Ġstill"
+            },
+            {
+              "id": 5543,
+              "g": 0.0,
+              "token": "Ġabsolutely"
+            }
+          ],
+          "winner": {
+            "id": 991,
+            "token": "Ġstill"
+          },
+          "tie": false
+        },
+        {
+          "candidates": [
+            {
+              "id": 2081,
+              "g": 1.0,
+              "token": "Ġtrue"
+            },
+            {
+              "id": 2081,
+              "g": 1.0,
+              "token": "Ġtrue"
+            }
+          ],
+          "winner": {
+            "id": 2081,
+            "token": "Ġtrue"
+          },
+          "tie": true
+        }
+      ]
+    },
+    {
+      "layer": 4,
+      "groups": [
+        {
+          "candidates": [
+            {
+              "id": 13,
+              "g": 1.0,
+              "token": "."
+            },
+            {
+              "id": 8603,
+              "g": 1.0,
+              "token": "Ġequally"
+            }
+          ],
+          "winner": {
+            "id": 13,
+            "token": "."
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 2081,
+              "g": 1.0,
+              "token": "Ġtrue"
+            },
+            {
+              "id": 991,
+              "g": 0.0,
+              "token": "Ġstill"
+            }
+          ],
+          "winner": {
+            "id": 2081,
+            "token": "Ġtrue"
+          },
+          "tie": false
+        },
+        {
+          "candidates": [
+            {
+              "id": 2081,
+              "g": 1.0,
+              "token": "Ġtrue"
+            },
+            {
+              "id": 2081,
+              "g": 1.0,
+              "token": "Ġtrue"
+            }
+          ],
+          "winner": {
+            "id": 2081,
+            "token": "Ġtrue"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 2081,
+              "g": 1.0,
+              "token": "Ġtrue"
+            },
+            {
+              "id": 2081,
+              "g": 1.0,
+              "token": "Ġtrue"
+            }
+          ],
+          "winner": {
+            "id": 2081,
+            "token": "Ġtrue"
+          },
+          "tie": true
+        }
+      ]
+    },
+    {
+      "layer": 5,
+      "groups": [
+        {
+          "candidates": [
+            {
+              "id": 13,
+              "g": 0.0,
+              "token": "."
+            },
+            {
+              "id": 2081,
+              "g": 1.0,
+              "token": "Ġtrue"
+            }
+          ],
+          "winner": {
+            "id": 2081,
+            "token": "Ġtrue"
+          },
+          "tie": false
+        },
+        {
+          "candidates": [
+            {
+              "id": 2081,
+              "g": 1.0,
+              "token": "Ġtrue"
+            },
+            {
+              "id": 2081,
+              "g": 1.0,
+              "token": "Ġtrue"
+            }
+          ],
+          "winner": {
+            "id": 2081,
+            "token": "Ġtrue"
+          },
+          "tie": true
+        }
+      ]
+    },
+    {
+      "layer": 6,
+      "groups": [
+        {
+          "candidates": [
+            {
+              "id": 2081,
+              "g": 1.0,
+              "token": "Ġtrue"
+            },
+            {
+              "id": 2081,
+              "g": 1.0,
+              "token": "Ġtrue"
+            }
+          ],
+          "winner": {
+            "id": 2081,
+            "token": "Ġtrue"
+          },
+          "tie": true
+        }
+      ]
+    }
+  ],
+  "final_winner": {
+    "id": 2081,
+    "token": "Ġtrue"
+  },
+  "top_probs": [
+    {
+      "rank": 1,
+      "id": 2081,
+      "token": "Ġtrue",
+      "p": 0.23248298466205597
+    },
+    {
+      "rank": 2,
+      "id": 407,
+      "token": "Ġnot",
+      "p": 0.05830834433436394
+    },
+    {
+      "rank": 3,
+      "id": 635,
+      "token": "Ġalso",
+      "p": 0.054740943014621735
+    },
+    {
+      "rank": 4,
+      "id": 257,
+      "token": "Ġa",
+      "p": 0.051481667906045914
+    },
+    {
+      "rank": 5,
+      "id": 1682,
+      "token": "Ġactually",
+      "p": 0.031603649258613586
+    },
+    {
+      "rank": 6,
+      "id": 262,
+      "token": "Ġthe",
+      "p": 0.03013870306313038
+    },
+    {
+      "rank": 7,
+      "id": 991,
+      "token": "Ġstill",
+      "p": 0.02523433417081833
+    },
+    {
+      "rank": 8,
+      "id": 1103,
+      "token": "Ġreal",
+      "p": 0.015685098245739937
+    },
+    {
+      "rank": 9,
+      "id": 1107,
+      "token": "Ġreally",
+      "p": 0.014791328459978104
+    },
+    {
+      "rank": 10,
+      "id": 530,
+      "token": "Ġone",
+      "p": 0.013177677989006042
+    },
+    {
+      "rank": 11,
+      "id": 644,
+      "token": "Ġwhat",
+      "p": 0.012541270814836025
+    },
+    {
+      "rank": 12,
+      "id": 523,
+      "token": "Ġso",
+      "p": 0.012385991401970387
+    },
+    {
+      "rank": 13,
+      "id": 3729,
+      "token": "Ġcertainly",
+      "p": 0.01174607127904892
+    },
+    {
+      "rank": 14,
+      "id": 845,
+      "token": "Ġvery",
+      "p": 0.009959259070456028
+    },
+    {
+      "rank": 15,
+      "id": 2861,
+      "token": "Ġworth",
+      "p": 0.009370645508170128
+    }
+  ],
+  "selected": {
+    "id": 2081,
+    "token": "Ġtrue",
+    "p": 0.23248298466205597
+  },
+  "step": 4,
+  "m_layers": 6,
+  "group_size": 2,
+  "g_dist": "bernoulli",
+  "H_window": 4,
+  "nsec": 128,
+  "temperature": 1.0,
+  "top_k": null,
+  "top_p": null
+}

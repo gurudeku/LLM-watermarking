@@ -1,0 +1,1664 @@
+{
+  "seed_rt": 187260841052395258282817883295994441382,
+  "initial_candidates": [
+    {
+      "id": 389,
+      "p": 0.022549711167812347,
+      "token": "Ġare"
+    },
+    {
+      "id": 481,
+      "p": 0.037212811410427094,
+      "token": "Ġwill"
+    },
+    {
+      "id": 460,
+      "p": 0.009062102995812893,
+      "token": "Ġcan"
+    },
+    {
+      "id": 26281,
+      "p": 0.0001273570378543809,
+      "token": "Ġbetrayed"
+    },
+    {
+      "id": 3022,
+      "p": 0.0003172043652739376,
+      "token": "Ġhappened"
+    },
+    {
+      "id": 468,
+      "p": 0.04733733832836151,
+      "token": "Ġhas"
+    },
+    {
+      "id": 2753,
+      "p": 0.0014459608355537057,
+      "token": "Ġtakes"
+    },
+    {
+      "id": 468,
+      "p": 0.04733733832836151,
+      "token": "Ġhas"
+    },
+    {
+      "id": 815,
+      "p": 0.0173370148986578,
+      "token": "Ġshould"
+    },
+    {
+      "id": 373,
+      "p": 0.0724743977189064,
+      "token": "Ġwas"
+    },
+    {
+      "id": 373,
+      "p": 0.0724743977189064,
+      "token": "Ġwas"
+    },
+    {
+      "id": 36941,
+      "p": 5.051340849604458e-06,
+      "token": "Ġindulge"
+    },
+    {
+      "id": 925,
+      "p": 0.004062109626829624,
+      "token": "Ġmade"
+    },
+    {
+      "id": 318,
+      "p": 0.09733911603689194,
+      "token": "Ġis"
+    },
+    {
+      "id": 1037,
+      "p": 1.8787348381010816e-05,
+      "token": "Ġhelp"
+    },
+    {
+      "id": 635,
+      "p": 0.0014513322385028005,
+      "token": "Ġalso"
+    },
+    {
+      "id": 561,
+      "p": 0.05536069720983505,
+      "token": "Ġwould"
+    },
+    {
+      "id": 481,
+      "p": 0.037212811410427094,
+      "token": "Ġwill"
+    },
+    {
+      "id": 1718,
+      "p": 0.006808881182223558,
+      "token": "Ġtook"
+    },
+    {
+      "id": 318,
+      "p": 0.09733911603689194,
+      "token": "Ġis"
+    },
+    {
+      "id": 318,
+      "p": 0.09733911603689194,
+      "token": "Ġis"
+    },
+    {
+      "id": 318,
+      "p": 0.09733911603689194,
+      "token": "Ġis"
+    },
+    {
+      "id": 7224,
+      "p": 0.0005673621199093759,
+      "token": "Ġsees"
+    },
+    {
+      "id": 714,
+      "p": 0.018003178760409355,
+      "token": "Ġcould"
+    },
+    {
+      "id": 481,
+      "p": 0.037212811410427094,
+      "token": "Ġwill"
+    },
+    {
+      "id": 2391,
+      "p": 0.0016922028735280037,
+      "token": "Ġsimply"
+    },
+    {
+      "id": 22127,
+      "p": 2.8302951250225306e-05,
+      "token": "Ġconfess"
+    },
+    {
+      "id": 2540,
+      "p": 0.024690359830856323,
+      "token": "Ġbegan"
+    },
+    {
+      "id": 6140,
+      "p": 0.002138280076906085,
+      "token": "Ġbegins"
+    },
+    {
+      "id": 550,
+      "p": 0.042887598276138306,
+      "token": "Ġhad"
+    },
+    {
+      "id": 2540,
+      "p": 0.024690359830856323,
+      "token": "Ġbegan"
+    },
+    {
+      "id": 468,
+      "p": 0.04733733832836151,
+      "token": "Ġhas"
+    },
+    {
+      "id": 13468,
+      "p": 8.623655594419688e-05,
+      "token": "Ġcease"
+    },
+    {
+      "id": 1625,
+      "p": 0.013103250414133072,
+      "token": "Ġcame"
+    },
+    {
+      "id": 4477,
+      "p": 0.0004687869513873011,
+      "token": "Ġcontinues"
+    },
+    {
+      "id": 6348,
+      "p": 0.001074440311640501,
+      "token": "Ġgrew"
+    },
+    {
+      "id": 318,
+      "p": 0.09733911603689194,
+      "token": "Ġis"
+    },
+    {
+      "id": 2314,
+      "p": 0.002511698054149747,
+      "token": "Ġcannot"
+    },
+    {
+      "id": 3066,
+      "p": 0.009163889102637768,
+      "token": "Ġdecided"
+    },
+    {
+      "id": 11185,
+      "p": 0.00011976871610386297,
+      "token": "Ġmeets"
+    },
+    {
+      "id": 1816,
+      "p": 0.004015642683953047,
+      "token": "Ġwent"
+    },
+    {
+      "id": 9343,
+      "p": 1.1709378668456338e-05,
+      "token": "Ġenabled"
+    },
+    {
+      "id": 468,
+      "p": 0.04733733832836151,
+      "token": "Ġhas"
+    },
+    {
+      "id": 11,
+      "p": 0.048024870455265045,
+      "token": ","
+    },
+    {
+      "id": 550,
+      "p": 0.042887598276138306,
+      "token": "Ġhad"
+    },
+    {
+      "id": 2540,
+      "p": 0.024690359830856323,
+      "token": "Ġbegan"
+    },
+    {
+      "id": 318,
+      "p": 0.09733911603689194,
+      "token": "Ġis"
+    },
+    {
+      "id": 1625,
+      "p": 0.013103250414133072,
+      "token": "Ġcame"
+    },
+    {
+      "id": 20915,
+      "p": 0.00025007882504723966,
+      "token": "Ġrecognised"
+    },
+    {
+      "id": 691,
+      "p": 0.0006093597621656954,
+      "token": "Ġonly"
+    },
+    {
+      "id": 481,
+      "p": 0.037212811410427094,
+      "token": "Ġwill"
+    },
+    {
+      "id": 3804,
+      "p": 0.0003067983197979629,
+      "token": "Ġpassed"
+    },
+    {
+      "id": 11,
+      "p": 0.048024870455265045,
+      "token": ","
+    },
+    {
+      "id": 561,
+      "p": 0.05536069720983505,
+      "token": "Ġwould"
+    },
+    {
+      "id": 318,
+      "p": 0.09733911603689194,
+      "token": "Ġis"
+    },
+    {
+      "id": 3016,
+      "p": 5.548852277570404e-05,
+      "token": "Ġnearly"
+    },
+    {
+      "id": 318,
+      "p": 0.09733911603689194,
+      "token": "Ġis"
+    },
+    {
+      "id": 2058,
+      "p": 0.0031781860161572695,
+      "token": "Ġcomes"
+    },
+    {
+      "id": 468,
+      "p": 0.04733733832836151,
+      "token": "Ġhas"
+    },
+    {
+      "id": 2622,
+      "p": 0.0019311856012791395,
+      "token": "Ġneeded"
+    },
+    {
+      "id": 547,
+      "p": 0.026847589761018753,
+      "token": "Ġwere"
+    },
+    {
+      "id": 2331,
+      "p": 0.0035735489800572395,
+      "token": "Ġseems"
+    },
+    {
+      "id": 14997,
+      "p": 3.265861960244365e-05,
+      "token": "Ġcrashed"
+    },
+    {
+      "id": 714,
+      "p": 0.018003178760409355,
+      "token": "Ġcould"
+    }
+  ],
+  "layers": [
+    {
+      "layer": 1,
+      "groups": [
+        {
+          "candidates": [
+            {
+              "id": 4477,
+              "g": 0.0,
+              "token": "Ġcontinues"
+            },
+            {
+              "id": 481,
+              "g": 0.0,
+              "token": "Ġwill"
+            }
+          ],
+          "winner": {
+            "id": 4477,
+            "token": "Ġcontinues"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 318,
+              "g": 1.0,
+              "token": "Ġis"
+            },
+            {
+              "id": 20915,
+              "g": 1.0,
+              "token": "Ġrecognised"
+            }
+          ],
+          "winner": {
+            "id": 318,
+            "token": "Ġis"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 373,
+              "g": 1.0,
+              "token": "Ġwas"
+            },
+            {
+              "id": 2753,
+              "g": 1.0,
+              "token": "Ġtakes"
+            }
+          ],
+          "winner": {
+            "id": 2753,
+            "token": "Ġtakes"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 468,
+              "g": 0.0,
+              "token": "Ġhas"
+            },
+            {
+              "id": 318,
+              "g": 1.0,
+              "token": "Ġis"
+            }
+          ],
+          "winner": {
+            "id": 318,
+            "token": "Ġis"
+          },
+          "tie": false
+        },
+        {
+          "candidates": [
+            {
+              "id": 2540,
+              "g": 0.0,
+              "token": "Ġbegan"
+            },
+            {
+              "id": 2540,
+              "g": 0.0,
+              "token": "Ġbegan"
+            }
+          ],
+          "winner": {
+            "id": 2540,
+            "token": "Ġbegan"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 3016,
+              "g": 1.0,
+              "token": "Ġnearly"
+            },
+            {
+              "id": 925,
+              "g": 1.0,
+              "token": "Ġmade"
+            }
+          ],
+          "winner": {
+            "id": 3016,
+            "token": "Ġnearly"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 318,
+              "g": 1.0,
+              "token": "Ġis"
+            },
+            {
+              "id": 2391,
+              "g": 1.0,
+              "token": "Ġsimply"
+            }
+          ],
+          "winner": {
+            "id": 2391,
+            "token": "Ġsimply"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 2331,
+              "g": 1.0,
+              "token": "Ġseems"
+            },
+            {
+              "id": 481,
+              "g": 0.0,
+              "token": "Ġwill"
+            }
+          ],
+          "winner": {
+            "id": 2331,
+            "token": "Ġseems"
+          },
+          "tie": false
+        },
+        {
+          "candidates": [
+            {
+              "id": 36941,
+              "g": 0.0,
+              "token": "Ġindulge"
+            },
+            {
+              "id": 481,
+              "g": 0.0,
+              "token": "Ġwill"
+            }
+          ],
+          "winner": {
+            "id": 36941,
+            "token": "Ġindulge"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 6140,
+              "g": 1.0,
+              "token": "Ġbegins"
+            },
+            {
+              "id": 561,
+              "g": 1.0,
+              "token": "Ġwould"
+            }
+          ],
+          "winner": {
+            "id": 6140,
+            "token": "Ġbegins"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 468,
+              "g": 0.0,
+              "token": "Ġhas"
+            },
+            {
+              "id": 318,
+              "g": 1.0,
+              "token": "Ġis"
+            }
+          ],
+          "winner": {
+            "id": 318,
+            "token": "Ġis"
+          },
+          "tie": false
+        },
+        {
+          "candidates": [
+            {
+              "id": 11185,
+              "g": 0.0,
+              "token": "Ġmeets"
+            },
+            {
+              "id": 1816,
+              "g": 0.0,
+              "token": "Ġwent"
+            }
+          ],
+          "winner": {
+            "id": 1816,
+            "token": "Ġwent"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 2622,
+              "g": 1.0,
+              "token": "Ġneeded"
+            },
+            {
+              "id": 9343,
+              "g": 1.0,
+              "token": "Ġenabled"
+            }
+          ],
+          "winner": {
+            "id": 9343,
+            "token": "Ġenabled"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 460,
+              "g": 0.0,
+              "token": "Ġcan"
+            },
+            {
+              "id": 561,
+              "g": 1.0,
+              "token": "Ġwould"
+            }
+          ],
+          "winner": {
+            "id": 561,
+            "token": "Ġwould"
+          },
+          "tie": false
+        },
+        {
+          "candidates": [
+            {
+              "id": 13468,
+              "g": 0.0,
+              "token": "Ġcease"
+            },
+            {
+              "id": 468,
+              "g": 0.0,
+              "token": "Ġhas"
+            }
+          ],
+          "winner": {
+            "id": 468,
+            "token": "Ġhas"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 318,
+              "g": 1.0,
+              "token": "Ġis"
+            },
+            {
+              "id": 714,
+              "g": 1.0,
+              "token": "Ġcould"
+            }
+          ],
+          "winner": {
+            "id": 318,
+            "token": "Ġis"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 2058,
+              "g": 0.0,
+              "token": "Ġcomes"
+            },
+            {
+              "id": 318,
+              "g": 1.0,
+              "token": "Ġis"
+            }
+          ],
+          "winner": {
+            "id": 318,
+            "token": "Ġis"
+          },
+          "tie": false
+        },
+        {
+          "candidates": [
+            {
+              "id": 547,
+              "g": 1.0,
+              "token": "Ġwere"
+            },
+            {
+              "id": 1037,
+              "g": 1.0,
+              "token": "Ġhelp"
+            }
+          ],
+          "winner": {
+            "id": 1037,
+            "token": "Ġhelp"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 1625,
+              "g": 1.0,
+              "token": "Ġcame"
+            },
+            {
+              "id": 11,
+              "g": 1.0,
+              "token": ","
+            }
+          ],
+          "winner": {
+            "id": 11,
+            "token": ","
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 1718,
+              "g": 1.0,
+              "token": "Ġtook"
+            },
+            {
+              "id": 550,
+              "g": 0.0,
+              "token": "Ġhad"
+            }
+          ],
+          "winner": {
+            "id": 1718,
+            "token": "Ġtook"
+          },
+          "tie": false
+        },
+        {
+          "candidates": [
+            {
+              "id": 22127,
+              "g": 1.0,
+              "token": "Ġconfess"
+            },
+            {
+              "id": 468,
+              "g": 0.0,
+              "token": "Ġhas"
+            }
+          ],
+          "winner": {
+            "id": 22127,
+            "token": "Ġconfess"
+          },
+          "tie": false
+        },
+        {
+          "candidates": [
+            {
+              "id": 318,
+              "g": 1.0,
+              "token": "Ġis"
+            },
+            {
+              "id": 2540,
+              "g": 0.0,
+              "token": "Ġbegan"
+            }
+          ],
+          "winner": {
+            "id": 318,
+            "token": "Ġis"
+          },
+          "tie": false
+        },
+        {
+          "candidates": [
+            {
+              "id": 3022,
+              "g": 1.0,
+              "token": "Ġhappened"
+            },
+            {
+              "id": 3804,
+              "g": 0.0,
+              "token": "Ġpassed"
+            }
+          ],
+          "winner": {
+            "id": 3022,
+            "token": "Ġhappened"
+          },
+          "tie": false
+        },
+        {
+          "candidates": [
+            {
+              "id": 815,
+              "g": 1.0,
+              "token": "Ġshould"
+            },
+            {
+              "id": 3066,
+              "g": 1.0,
+              "token": "Ġdecided"
+            }
+          ],
+          "winner": {
+            "id": 3066,
+            "token": "Ġdecided"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 7224,
+              "g": 0.0,
+              "token": "Ġsees"
+            },
+            {
+              "id": 373,
+              "g": 1.0,
+              "token": "Ġwas"
+            }
+          ],
+          "winner": {
+            "id": 373,
+            "token": "Ġwas"
+          },
+          "tie": false
+        },
+        {
+          "candidates": [
+            {
+              "id": 26281,
+              "g": 1.0,
+              "token": "Ġbetrayed"
+            },
+            {
+              "id": 635,
+              "g": 1.0,
+              "token": "Ġalso"
+            }
+          ],
+          "winner": {
+            "id": 635,
+            "token": "Ġalso"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 14997,
+              "g": 0.0,
+              "token": "Ġcrashed"
+            },
+            {
+              "id": 481,
+              "g": 0.0,
+              "token": "Ġwill"
+            }
+          ],
+          "winner": {
+            "id": 481,
+            "token": "Ġwill"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 2314,
+              "g": 1.0,
+              "token": "Ġcannot"
+            },
+            {
+              "id": 691,
+              "g": 1.0,
+              "token": "Ġonly"
+            }
+          ],
+          "winner": {
+            "id": 691,
+            "token": "Ġonly"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 389,
+              "g": 1.0,
+              "token": "Ġare"
+            },
+            {
+              "id": 11,
+              "g": 1.0,
+              "token": ","
+            }
+          ],
+          "winner": {
+            "id": 389,
+            "token": "Ġare"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 6348,
+              "g": 0.0,
+              "token": "Ġgrew"
+            },
+            {
+              "id": 550,
+              "g": 0.0,
+              "token": "Ġhad"
+            }
+          ],
+          "winner": {
+            "id": 550,
+            "token": "Ġhad"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 714,
+              "g": 1.0,
+              "token": "Ġcould"
+            },
+            {
+              "id": 468,
+              "g": 0.0,
+              "token": "Ġhas"
+            }
+          ],
+          "winner": {
+            "id": 714,
+            "token": "Ġcould"
+          },
+          "tie": false
+        },
+        {
+          "candidates": [
+            {
+              "id": 318,
+              "g": 1.0,
+              "token": "Ġis"
+            },
+            {
+              "id": 1625,
+              "g": 1.0,
+              "token": "Ġcame"
+            }
+          ],
+          "winner": {
+            "id": 1625,
+            "token": "Ġcame"
+          },
+          "tie": true
+        }
+      ]
+    },
+    {
+      "layer": 2,
+      "groups": [
+        {
+          "candidates": [
+            {
+              "id": 3066,
+              "g": 0.0,
+              "token": "Ġdecided"
+            },
+            {
+              "id": 318,
+              "g": 1.0,
+              "token": "Ġis"
+            }
+          ],
+          "winner": {
+            "id": 318,
+            "token": "Ġis"
+          },
+          "tie": false
+        },
+        {
+          "candidates": [
+            {
+              "id": 691,
+              "g": 0.0,
+              "token": "Ġonly"
+            },
+            {
+              "id": 481,
+              "g": 1.0,
+              "token": "Ġwill"
+            }
+          ],
+          "winner": {
+            "id": 481,
+            "token": "Ġwill"
+          },
+          "tie": false
+        },
+        {
+          "candidates": [
+            {
+              "id": 36941,
+              "g": 1.0,
+              "token": "Ġindulge"
+            },
+            {
+              "id": 9343,
+              "g": 1.0,
+              "token": "Ġenabled"
+            }
+          ],
+          "winner": {
+            "id": 36941,
+            "token": "Ġindulge"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 1816,
+              "g": 1.0,
+              "token": "Ġwent"
+            },
+            {
+              "id": 4477,
+              "g": 1.0,
+              "token": "Ġcontinues"
+            }
+          ],
+          "winner": {
+            "id": 4477,
+            "token": "Ġcontinues"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 6140,
+              "g": 1.0,
+              "token": "Ġbegins"
+            },
+            {
+              "id": 373,
+              "g": 0.0,
+              "token": "Ġwas"
+            }
+          ],
+          "winner": {
+            "id": 6140,
+            "token": "Ġbegins"
+          },
+          "tie": false
+        },
+        {
+          "candidates": [
+            {
+              "id": 2331,
+              "g": 0.0,
+              "token": "Ġseems"
+            },
+            {
+              "id": 389,
+              "g": 0.0,
+              "token": "Ġare"
+            }
+          ],
+          "winner": {
+            "id": 389,
+            "token": "Ġare"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 1625,
+              "g": 0.0,
+              "token": "Ġcame"
+            },
+            {
+              "id": 714,
+              "g": 1.0,
+              "token": "Ġcould"
+            }
+          ],
+          "winner": {
+            "id": 714,
+            "token": "Ġcould"
+          },
+          "tie": false
+        },
+        {
+          "candidates": [
+            {
+              "id": 550,
+              "g": 1.0,
+              "token": "Ġhad"
+            },
+            {
+              "id": 318,
+              "g": 1.0,
+              "token": "Ġis"
+            }
+          ],
+          "winner": {
+            "id": 550,
+            "token": "Ġhad"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 2540,
+              "g": 0.0,
+              "token": "Ġbegan"
+            },
+            {
+              "id": 3016,
+              "g": 0.0,
+              "token": "Ġnearly"
+            }
+          ],
+          "winner": {
+            "id": 3016,
+            "token": "Ġnearly"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 561,
+              "g": 1.0,
+              "token": "Ġwould"
+            },
+            {
+              "id": 318,
+              "g": 1.0,
+              "token": "Ġis"
+            }
+          ],
+          "winner": {
+            "id": 318,
+            "token": "Ġis"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 2753,
+              "g": 1.0,
+              "token": "Ġtakes"
+            },
+            {
+              "id": 318,
+              "g": 1.0,
+              "token": "Ġis"
+            }
+          ],
+          "winner": {
+            "id": 2753,
+            "token": "Ġtakes"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 318,
+              "g": 1.0,
+              "token": "Ġis"
+            },
+            {
+              "id": 468,
+              "g": 1.0,
+              "token": "Ġhas"
+            }
+          ],
+          "winner": {
+            "id": 468,
+            "token": "Ġhas"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 318,
+              "g": 1.0,
+              "token": "Ġis"
+            },
+            {
+              "id": 11,
+              "g": 0.0,
+              "token": ","
+            }
+          ],
+          "winner": {
+            "id": 318,
+            "token": "Ġis"
+          },
+          "tie": false
+        },
+        {
+          "candidates": [
+            {
+              "id": 1037,
+              "g": 0.0,
+              "token": "Ġhelp"
+            },
+            {
+              "id": 3022,
+              "g": 1.0,
+              "token": "Ġhappened"
+            }
+          ],
+          "winner": {
+            "id": 3022,
+            "token": "Ġhappened"
+          },
+          "tie": false
+        },
+        {
+          "candidates": [
+            {
+              "id": 2391,
+              "g": 0.0,
+              "token": "Ġsimply"
+            },
+            {
+              "id": 22127,
+              "g": 1.0,
+              "token": "Ġconfess"
+            }
+          ],
+          "winner": {
+            "id": 22127,
+            "token": "Ġconfess"
+          },
+          "tie": false
+        },
+        {
+          "candidates": [
+            {
+              "id": 635,
+              "g": 0.0,
+              "token": "Ġalso"
+            },
+            {
+              "id": 1718,
+              "g": 1.0,
+              "token": "Ġtook"
+            }
+          ],
+          "winner": {
+            "id": 1718,
+            "token": "Ġtook"
+          },
+          "tie": false
+        }
+      ]
+    },
+    {
+      "layer": 3,
+      "groups": [
+        {
+          "candidates": [
+            {
+              "id": 318,
+              "g": 1.0,
+              "token": "Ġis"
+            },
+            {
+              "id": 22127,
+              "g": 1.0,
+              "token": "Ġconfess"
+            }
+          ],
+          "winner": {
+            "id": 318,
+            "token": "Ġis"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 3022,
+              "g": 0.0,
+              "token": "Ġhappened"
+            },
+            {
+              "id": 714,
+              "g": 1.0,
+              "token": "Ġcould"
+            }
+          ],
+          "winner": {
+            "id": 714,
+            "token": "Ġcould"
+          },
+          "tie": false
+        },
+        {
+          "candidates": [
+            {
+              "id": 3016,
+              "g": 0.0,
+              "token": "Ġnearly"
+            },
+            {
+              "id": 4477,
+              "g": 1.0,
+              "token": "Ġcontinues"
+            }
+          ],
+          "winner": {
+            "id": 4477,
+            "token": "Ġcontinues"
+          },
+          "tie": false
+        },
+        {
+          "candidates": [
+            {
+              "id": 550,
+              "g": 0.0,
+              "token": "Ġhad"
+            },
+            {
+              "id": 2753,
+              "g": 1.0,
+              "token": "Ġtakes"
+            }
+          ],
+          "winner": {
+            "id": 2753,
+            "token": "Ġtakes"
+          },
+          "tie": false
+        },
+        {
+          "candidates": [
+            {
+              "id": 1718,
+              "g": 1.0,
+              "token": "Ġtook"
+            },
+            {
+              "id": 389,
+              "g": 0.0,
+              "token": "Ġare"
+            }
+          ],
+          "winner": {
+            "id": 1718,
+            "token": "Ġtook"
+          },
+          "tie": false
+        },
+        {
+          "candidates": [
+            {
+              "id": 6140,
+              "g": 0.0,
+              "token": "Ġbegins"
+            },
+            {
+              "id": 36941,
+              "g": 1.0,
+              "token": "Ġindulge"
+            }
+          ],
+          "winner": {
+            "id": 36941,
+            "token": "Ġindulge"
+          },
+          "tie": false
+        },
+        {
+          "candidates": [
+            {
+              "id": 318,
+              "g": 1.0,
+              "token": "Ġis"
+            },
+            {
+              "id": 318,
+              "g": 1.0,
+              "token": "Ġis"
+            }
+          ],
+          "winner": {
+            "id": 318,
+            "token": "Ġis"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 481,
+              "g": 0.0,
+              "token": "Ġwill"
+            },
+            {
+              "id": 468,
+              "g": 1.0,
+              "token": "Ġhas"
+            }
+          ],
+          "winner": {
+            "id": 468,
+            "token": "Ġhas"
+          },
+          "tie": false
+        }
+      ]
+    },
+    {
+      "layer": 4,
+      "groups": [
+        {
+          "candidates": [
+            {
+              "id": 318,
+              "g": 0.0,
+              "token": "Ġis"
+            },
+            {
+              "id": 714,
+              "g": 0.0,
+              "token": "Ġcould"
+            }
+          ],
+          "winner": {
+            "id": 714,
+            "token": "Ġcould"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 1718,
+              "g": 1.0,
+              "token": "Ġtook"
+            },
+            {
+              "id": 318,
+              "g": 0.0,
+              "token": "Ġis"
+            }
+          ],
+          "winner": {
+            "id": 1718,
+            "token": "Ġtook"
+          },
+          "tie": false
+        },
+        {
+          "candidates": [
+            {
+              "id": 2753,
+              "g": 0.0,
+              "token": "Ġtakes"
+            },
+            {
+              "id": 36941,
+              "g": 0.0,
+              "token": "Ġindulge"
+            }
+          ],
+          "winner": {
+            "id": 36941,
+            "token": "Ġindulge"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 468,
+              "g": 1.0,
+              "token": "Ġhas"
+            },
+            {
+              "id": 4477,
+              "g": 0.0,
+              "token": "Ġcontinues"
+            }
+          ],
+          "winner": {
+            "id": 468,
+            "token": "Ġhas"
+          },
+          "tie": false
+        }
+      ]
+    },
+    {
+      "layer": 5,
+      "groups": [
+        {
+          "candidates": [
+            {
+              "id": 36941,
+              "g": 0.0,
+              "token": "Ġindulge"
+            },
+            {
+              "id": 1718,
+              "g": 1.0,
+              "token": "Ġtook"
+            }
+          ],
+          "winner": {
+            "id": 1718,
+            "token": "Ġtook"
+          },
+          "tie": false
+        },
+        {
+          "candidates": [
+            {
+              "id": 714,
+              "g": 1.0,
+              "token": "Ġcould"
+            },
+            {
+              "id": 468,
+              "g": 1.0,
+              "token": "Ġhas"
+            }
+          ],
+          "winner": {
+            "id": 714,
+            "token": "Ġcould"
+          },
+          "tie": true
+        }
+      ]
+    },
+    {
+      "layer": 6,
+      "groups": [
+        {
+          "candidates": [
+            {
+              "id": 1718,
+              "g": 1.0,
+              "token": "Ġtook"
+            },
+            {
+              "id": 714,
+              "g": 1.0,
+              "token": "Ġcould"
+            }
+          ],
+          "winner": {
+            "id": 1718,
+            "token": "Ġtook"
+          },
+          "tie": true
+        }
+      ]
+    }
+  ],
+  "final_winner": {
+    "id": 1718,
+    "token": "Ġtook"
+  },
+  "top_probs": [
+    {
+      "rank": 1,
+      "id": 318,
+      "token": "Ġis",
+      "p": 0.09733911603689194
+    },
+    {
+      "rank": 2,
+      "id": 373,
+      "token": "Ġwas",
+      "p": 0.0724743977189064
+    },
+    {
+      "rank": 3,
+      "id": 561,
+      "token": "Ġwould",
+      "p": 0.05536069720983505
+    },
+    {
+      "rank": 4,
+      "id": 11,
+      "token": ",",
+      "p": 0.048024870455265045
+    },
+    {
+      "rank": 5,
+      "id": 468,
+      "token": "Ġhas",
+      "p": 0.04733733832836151
+    },
+    {
+      "rank": 6,
+      "id": 550,
+      "token": "Ġhad",
+      "p": 0.042887598276138306
+    },
+    {
+      "rank": 7,
+      "id": 481,
+      "token": "Ġwill",
+      "p": 0.037212811410427094
+    },
+    {
+      "rank": 8,
+      "id": 2627,
+      "token": "Ġbecame",
+      "p": 0.030569816008210182
+    },
+    {
+      "rank": 9,
+      "id": 547,
+      "token": "Ġwere",
+      "p": 0.026847589761018753
+    },
+    {
+      "rank": 10,
+      "id": 2540,
+      "token": "Ġbegan",
+      "p": 0.024690359830856323
+    },
+    {
+      "rank": 11,
+      "id": 389,
+      "token": "Ġare",
+      "p": 0.022549711167812347
+    },
+    {
+      "rank": 12,
+      "id": 714,
+      "token": "Ġcould",
+      "p": 0.018003178760409355
+    },
+    {
+      "rank": 13,
+      "id": 815,
+      "token": "Ġshould",
+      "p": 0.0173370148986578
+    },
+    {
+      "rank": 14,
+      "id": 1276,
+      "token": "Ġmust",
+      "p": 0.015939105302095413
+    },
+    {
+      "rank": 15,
+      "id": 1625,
+      "token": "Ġcame",
+      "p": 0.013103250414133072
+    }
+  ],
+  "selected": {
+    "id": 1718,
+    "token": "Ġtook",
+    "p": 0.006808881182223558
+  },
+  "step": 21,
+  "m_layers": 6,
+  "group_size": 2,
+  "g_dist": "bernoulli",
+  "H_window": 4,
+  "nsec": 128,
+  "temperature": 1.0,
+  "top_k": null,
+  "top_p": null
+}

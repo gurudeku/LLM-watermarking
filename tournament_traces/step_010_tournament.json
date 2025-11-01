@@ -1,0 +1,1664 @@
+{
+  "seed_rt": 302408434994224160565569512964324504190,
+  "initial_candidates": [
+    {
+      "id": 22584,
+      "p": 0.9995023012161255,
+      "token": "fact"
+    },
+    {
+      "id": 22584,
+      "p": 0.9995023012161255,
+      "token": "fact"
+    },
+    {
+      "id": 22584,
+      "p": 0.9995023012161255,
+      "token": "fact"
+    },
+    {
+      "id": 22584,
+      "p": 0.9995023012161255,
+      "token": "fact"
+    },
+    {
+      "id": 22584,
+      "p": 0.9995023012161255,
+      "token": "fact"
+    },
+    {
+      "id": 22584,
+      "p": 0.9995023012161255,
+      "token": "fact"
+    },
+    {
+      "id": 22584,
+      "p": 0.9995023012161255,
+      "token": "fact"
+    },
+    {
+      "id": 22584,
+      "p": 0.9995023012161255,
+      "token": "fact"
+    },
+    {
+      "id": 22584,
+      "p": 0.9995023012161255,
+      "token": "fact"
+    },
+    {
+      "id": 22584,
+      "p": 0.9995023012161255,
+      "token": "fact"
+    },
+    {
+      "id": 22584,
+      "p": 0.9995023012161255,
+      "token": "fact"
+    },
+    {
+      "id": 22584,
+      "p": 0.9995023012161255,
+      "token": "fact"
+    },
+    {
+      "id": 22584,
+      "p": 0.9995023012161255,
+      "token": "fact"
+    },
+    {
+      "id": 22584,
+      "p": 0.9995023012161255,
+      "token": "fact"
+    },
+    {
+      "id": 22584,
+      "p": 0.9995023012161255,
+      "token": "fact"
+    },
+    {
+      "id": 22584,
+      "p": 0.9995023012161255,
+      "token": "fact"
+    },
+    {
+      "id": 22584,
+      "p": 0.9995023012161255,
+      "token": "fact"
+    },
+    {
+      "id": 22584,
+      "p": 0.9995023012161255,
+      "token": "fact"
+    },
+    {
+      "id": 22584,
+      "p": 0.9995023012161255,
+      "token": "fact"
+    },
+    {
+      "id": 22584,
+      "p": 0.9995023012161255,
+      "token": "fact"
+    },
+    {
+      "id": 22584,
+      "p": 0.9995023012161255,
+      "token": "fact"
+    },
+    {
+      "id": 22584,
+      "p": 0.9995023012161255,
+      "token": "fact"
+    },
+    {
+      "id": 22584,
+      "p": 0.9995023012161255,
+      "token": "fact"
+    },
+    {
+      "id": 22584,
+      "p": 0.9995023012161255,
+      "token": "fact"
+    },
+    {
+      "id": 22584,
+      "p": 0.9995023012161255,
+      "token": "fact"
+    },
+    {
+      "id": 22584,
+      "p": 0.9995023012161255,
+      "token": "fact"
+    },
+    {
+      "id": 22584,
+      "p": 0.9995023012161255,
+      "token": "fact"
+    },
+    {
+      "id": 22584,
+      "p": 0.9995023012161255,
+      "token": "fact"
+    },
+    {
+      "id": 22584,
+      "p": 0.9995023012161255,
+      "token": "fact"
+    },
+    {
+      "id": 22584,
+      "p": 0.9995023012161255,
+      "token": "fact"
+    },
+    {
+      "id": 22584,
+      "p": 0.9995023012161255,
+      "token": "fact"
+    },
+    {
+      "id": 22584,
+      "p": 0.9995023012161255,
+      "token": "fact"
+    },
+    {
+      "id": 22584,
+      "p": 0.9995023012161255,
+      "token": "fact"
+    },
+    {
+      "id": 22584,
+      "p": 0.9995023012161255,
+      "token": "fact"
+    },
+    {
+      "id": 22584,
+      "p": 0.9995023012161255,
+      "token": "fact"
+    },
+    {
+      "id": 22584,
+      "p": 0.9995023012161255,
+      "token": "fact"
+    },
+    {
+      "id": 22584,
+      "p": 0.9995023012161255,
+      "token": "fact"
+    },
+    {
+      "id": 22584,
+      "p": 0.9995023012161255,
+      "token": "fact"
+    },
+    {
+      "id": 22584,
+      "p": 0.9995023012161255,
+      "token": "fact"
+    },
+    {
+      "id": 22584,
+      "p": 0.9995023012161255,
+      "token": "fact"
+    },
+    {
+      "id": 22584,
+      "p": 0.9995023012161255,
+      "token": "fact"
+    },
+    {
+      "id": 22584,
+      "p": 0.9995023012161255,
+      "token": "fact"
+    },
+    {
+      "id": 22584,
+      "p": 0.9995023012161255,
+      "token": "fact"
+    },
+    {
+      "id": 22584,
+      "p": 0.9995023012161255,
+      "token": "fact"
+    },
+    {
+      "id": 22584,
+      "p": 0.9995023012161255,
+      "token": "fact"
+    },
+    {
+      "id": 22584,
+      "p": 0.9995023012161255,
+      "token": "fact"
+    },
+    {
+      "id": 22584,
+      "p": 0.9995023012161255,
+      "token": "fact"
+    },
+    {
+      "id": 22584,
+      "p": 0.9995023012161255,
+      "token": "fact"
+    },
+    {
+      "id": 22584,
+      "p": 0.9995023012161255,
+      "token": "fact"
+    },
+    {
+      "id": 22584,
+      "p": 0.9995023012161255,
+      "token": "fact"
+    },
+    {
+      "id": 22584,
+      "p": 0.9995023012161255,
+      "token": "fact"
+    },
+    {
+      "id": 22584,
+      "p": 0.9995023012161255,
+      "token": "fact"
+    },
+    {
+      "id": 22584,
+      "p": 0.9995023012161255,
+      "token": "fact"
+    },
+    {
+      "id": 22584,
+      "p": 0.9995023012161255,
+      "token": "fact"
+    },
+    {
+      "id": 22584,
+      "p": 0.9995023012161255,
+      "token": "fact"
+    },
+    {
+      "id": 22584,
+      "p": 0.9995023012161255,
+      "token": "fact"
+    },
+    {
+      "id": 22584,
+      "p": 0.9995023012161255,
+      "token": "fact"
+    },
+    {
+      "id": 22584,
+      "p": 0.9995023012161255,
+      "token": "fact"
+    },
+    {
+      "id": 22584,
+      "p": 0.9995023012161255,
+      "token": "fact"
+    },
+    {
+      "id": 22584,
+      "p": 0.9995023012161255,
+      "token": "fact"
+    },
+    {
+      "id": 22584,
+      "p": 0.9995023012161255,
+      "token": "fact"
+    },
+    {
+      "id": 22584,
+      "p": 0.9995023012161255,
+      "token": "fact"
+    },
+    {
+      "id": 22584,
+      "p": 0.9995023012161255,
+      "token": "fact"
+    },
+    {
+      "id": 22584,
+      "p": 0.9995023012161255,
+      "token": "fact"
+    }
+  ],
+  "layers": [
+    {
+      "layer": 1,
+      "groups": [
+        {
+          "candidates": [
+            {
+              "id": 22584,
+              "g": 0.0,
+              "token": "fact"
+            },
+            {
+              "id": 22584,
+              "g": 0.0,
+              "token": "fact"
+            }
+          ],
+          "winner": {
+            "id": 22584,
+            "token": "fact"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 22584,
+              "g": 0.0,
+              "token": "fact"
+            },
+            {
+              "id": 22584,
+              "g": 0.0,
+              "token": "fact"
+            }
+          ],
+          "winner": {
+            "id": 22584,
+            "token": "fact"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 22584,
+              "g": 0.0,
+              "token": "fact"
+            },
+            {
+              "id": 22584,
+              "g": 0.0,
+              "token": "fact"
+            }
+          ],
+          "winner": {
+            "id": 22584,
+            "token": "fact"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 22584,
+              "g": 0.0,
+              "token": "fact"
+            },
+            {
+              "id": 22584,
+              "g": 0.0,
+              "token": "fact"
+            }
+          ],
+          "winner": {
+            "id": 22584,
+            "token": "fact"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 22584,
+              "g": 0.0,
+              "token": "fact"
+            },
+            {
+              "id": 22584,
+              "g": 0.0,
+              "token": "fact"
+            }
+          ],
+          "winner": {
+            "id": 22584,
+            "token": "fact"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 22584,
+              "g": 0.0,
+              "token": "fact"
+            },
+            {
+              "id": 22584,
+              "g": 0.0,
+              "token": "fact"
+            }
+          ],
+          "winner": {
+            "id": 22584,
+            "token": "fact"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 22584,
+              "g": 0.0,
+              "token": "fact"
+            },
+            {
+              "id": 22584,
+              "g": 0.0,
+              "token": "fact"
+            }
+          ],
+          "winner": {
+            "id": 22584,
+            "token": "fact"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 22584,
+              "g": 0.0,
+              "token": "fact"
+            },
+            {
+              "id": 22584,
+              "g": 0.0,
+              "token": "fact"
+            }
+          ],
+          "winner": {
+            "id": 22584,
+            "token": "fact"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 22584,
+              "g": 0.0,
+              "token": "fact"
+            },
+            {
+              "id": 22584,
+              "g": 0.0,
+              "token": "fact"
+            }
+          ],
+          "winner": {
+            "id": 22584,
+            "token": "fact"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 22584,
+              "g": 0.0,
+              "token": "fact"
+            },
+            {
+              "id": 22584,
+              "g": 0.0,
+              "token": "fact"
+            }
+          ],
+          "winner": {
+            "id": 22584,
+            "token": "fact"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 22584,
+              "g": 0.0,
+              "token": "fact"
+            },
+            {
+              "id": 22584,
+              "g": 0.0,
+              "token": "fact"
+            }
+          ],
+          "winner": {
+            "id": 22584,
+            "token": "fact"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 22584,
+              "g": 0.0,
+              "token": "fact"
+            },
+            {
+              "id": 22584,
+              "g": 0.0,
+              "token": "fact"
+            }
+          ],
+          "winner": {
+            "id": 22584,
+            "token": "fact"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 22584,
+              "g": 0.0,
+              "token": "fact"
+            },
+            {
+              "id": 22584,
+              "g": 0.0,
+              "token": "fact"
+            }
+          ],
+          "winner": {
+            "id": 22584,
+            "token": "fact"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 22584,
+              "g": 0.0,
+              "token": "fact"
+            },
+            {
+              "id": 22584,
+              "g": 0.0,
+              "token": "fact"
+            }
+          ],
+          "winner": {
+            "id": 22584,
+            "token": "fact"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 22584,
+              "g": 0.0,
+              "token": "fact"
+            },
+            {
+              "id": 22584,
+              "g": 0.0,
+              "token": "fact"
+            }
+          ],
+          "winner": {
+            "id": 22584,
+            "token": "fact"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 22584,
+              "g": 0.0,
+              "token": "fact"
+            },
+            {
+              "id": 22584,
+              "g": 0.0,
+              "token": "fact"
+            }
+          ],
+          "winner": {
+            "id": 22584,
+            "token": "fact"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 22584,
+              "g": 0.0,
+              "token": "fact"
+            },
+            {
+              "id": 22584,
+              "g": 0.0,
+              "token": "fact"
+            }
+          ],
+          "winner": {
+            "id": 22584,
+            "token": "fact"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 22584,
+              "g": 0.0,
+              "token": "fact"
+            },
+            {
+              "id": 22584,
+              "g": 0.0,
+              "token": "fact"
+            }
+          ],
+          "winner": {
+            "id": 22584,
+            "token": "fact"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 22584,
+              "g": 0.0,
+              "token": "fact"
+            },
+            {
+              "id": 22584,
+              "g": 0.0,
+              "token": "fact"
+            }
+          ],
+          "winner": {
+            "id": 22584,
+            "token": "fact"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 22584,
+              "g": 0.0,
+              "token": "fact"
+            },
+            {
+              "id": 22584,
+              "g": 0.0,
+              "token": "fact"
+            }
+          ],
+          "winner": {
+            "id": 22584,
+            "token": "fact"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 22584,
+              "g": 0.0,
+              "token": "fact"
+            },
+            {
+              "id": 22584,
+              "g": 0.0,
+              "token": "fact"
+            }
+          ],
+          "winner": {
+            "id": 22584,
+            "token": "fact"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 22584,
+              "g": 0.0,
+              "token": "fact"
+            },
+            {
+              "id": 22584,
+              "g": 0.0,
+              "token": "fact"
+            }
+          ],
+          "winner": {
+            "id": 22584,
+            "token": "fact"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 22584,
+              "g": 0.0,
+              "token": "fact"
+            },
+            {
+              "id": 22584,
+              "g": 0.0,
+              "token": "fact"
+            }
+          ],
+          "winner": {
+            "id": 22584,
+            "token": "fact"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 22584,
+              "g": 0.0,
+              "token": "fact"
+            },
+            {
+              "id": 22584,
+              "g": 0.0,
+              "token": "fact"
+            }
+          ],
+          "winner": {
+            "id": 22584,
+            "token": "fact"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 22584,
+              "g": 0.0,
+              "token": "fact"
+            },
+            {
+              "id": 22584,
+              "g": 0.0,
+              "token": "fact"
+            }
+          ],
+          "winner": {
+            "id": 22584,
+            "token": "fact"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 22584,
+              "g": 0.0,
+              "token": "fact"
+            },
+            {
+              "id": 22584,
+              "g": 0.0,
+              "token": "fact"
+            }
+          ],
+          "winner": {
+            "id": 22584,
+            "token": "fact"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 22584,
+              "g": 0.0,
+              "token": "fact"
+            },
+            {
+              "id": 22584,
+              "g": 0.0,
+              "token": "fact"
+            }
+          ],
+          "winner": {
+            "id": 22584,
+            "token": "fact"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 22584,
+              "g": 0.0,
+              "token": "fact"
+            },
+            {
+              "id": 22584,
+              "g": 0.0,
+              "token": "fact"
+            }
+          ],
+          "winner": {
+            "id": 22584,
+            "token": "fact"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 22584,
+              "g": 0.0,
+              "token": "fact"
+            },
+            {
+              "id": 22584,
+              "g": 0.0,
+              "token": "fact"
+            }
+          ],
+          "winner": {
+            "id": 22584,
+            "token": "fact"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 22584,
+              "g": 0.0,
+              "token": "fact"
+            },
+            {
+              "id": 22584,
+              "g": 0.0,
+              "token": "fact"
+            }
+          ],
+          "winner": {
+            "id": 22584,
+            "token": "fact"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 22584,
+              "g": 0.0,
+              "token": "fact"
+            },
+            {
+              "id": 22584,
+              "g": 0.0,
+              "token": "fact"
+            }
+          ],
+          "winner": {
+            "id": 22584,
+            "token": "fact"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 22584,
+              "g": 0.0,
+              "token": "fact"
+            },
+            {
+              "id": 22584,
+              "g": 0.0,
+              "token": "fact"
+            }
+          ],
+          "winner": {
+            "id": 22584,
+            "token": "fact"
+          },
+          "tie": true
+        }
+      ]
+    },
+    {
+      "layer": 2,
+      "groups": [
+        {
+          "candidates": [
+            {
+              "id": 22584,
+              "g": 1.0,
+              "token": "fact"
+            },
+            {
+              "id": 22584,
+              "g": 1.0,
+              "token": "fact"
+            }
+          ],
+          "winner": {
+            "id": 22584,
+            "token": "fact"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 22584,
+              "g": 1.0,
+              "token": "fact"
+            },
+            {
+              "id": 22584,
+              "g": 1.0,
+              "token": "fact"
+            }
+          ],
+          "winner": {
+            "id": 22584,
+            "token": "fact"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 22584,
+              "g": 1.0,
+              "token": "fact"
+            },
+            {
+              "id": 22584,
+              "g": 1.0,
+              "token": "fact"
+            }
+          ],
+          "winner": {
+            "id": 22584,
+            "token": "fact"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 22584,
+              "g": 1.0,
+              "token": "fact"
+            },
+            {
+              "id": 22584,
+              "g": 1.0,
+              "token": "fact"
+            }
+          ],
+          "winner": {
+            "id": 22584,
+            "token": "fact"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 22584,
+              "g": 1.0,
+              "token": "fact"
+            },
+            {
+              "id": 22584,
+              "g": 1.0,
+              "token": "fact"
+            }
+          ],
+          "winner": {
+            "id": 22584,
+            "token": "fact"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 22584,
+              "g": 1.0,
+              "token": "fact"
+            },
+            {
+              "id": 22584,
+              "g": 1.0,
+              "token": "fact"
+            }
+          ],
+          "winner": {
+            "id": 22584,
+            "token": "fact"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 22584,
+              "g": 1.0,
+              "token": "fact"
+            },
+            {
+              "id": 22584,
+              "g": 1.0,
+              "token": "fact"
+            }
+          ],
+          "winner": {
+            "id": 22584,
+            "token": "fact"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 22584,
+              "g": 1.0,
+              "token": "fact"
+            },
+            {
+              "id": 22584,
+              "g": 1.0,
+              "token": "fact"
+            }
+          ],
+          "winner": {
+            "id": 22584,
+            "token": "fact"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 22584,
+              "g": 1.0,
+              "token": "fact"
+            },
+            {
+              "id": 22584,
+              "g": 1.0,
+              "token": "fact"
+            }
+          ],
+          "winner": {
+            "id": 22584,
+            "token": "fact"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 22584,
+              "g": 1.0,
+              "token": "fact"
+            },
+            {
+              "id": 22584,
+              "g": 1.0,
+              "token": "fact"
+            }
+          ],
+          "winner": {
+            "id": 22584,
+            "token": "fact"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 22584,
+              "g": 1.0,
+              "token": "fact"
+            },
+            {
+              "id": 22584,
+              "g": 1.0,
+              "token": "fact"
+            }
+          ],
+          "winner": {
+            "id": 22584,
+            "token": "fact"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 22584,
+              "g": 1.0,
+              "token": "fact"
+            },
+            {
+              "id": 22584,
+              "g": 1.0,
+              "token": "fact"
+            }
+          ],
+          "winner": {
+            "id": 22584,
+            "token": "fact"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 22584,
+              "g": 1.0,
+              "token": "fact"
+            },
+            {
+              "id": 22584,
+              "g": 1.0,
+              "token": "fact"
+            }
+          ],
+          "winner": {
+            "id": 22584,
+            "token": "fact"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 22584,
+              "g": 1.0,
+              "token": "fact"
+            },
+            {
+              "id": 22584,
+              "g": 1.0,
+              "token": "fact"
+            }
+          ],
+          "winner": {
+            "id": 22584,
+            "token": "fact"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 22584,
+              "g": 1.0,
+              "token": "fact"
+            },
+            {
+              "id": 22584,
+              "g": 1.0,
+              "token": "fact"
+            }
+          ],
+          "winner": {
+            "id": 22584,
+            "token": "fact"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 22584,
+              "g": 1.0,
+              "token": "fact"
+            },
+            {
+              "id": 22584,
+              "g": 1.0,
+              "token": "fact"
+            }
+          ],
+          "winner": {
+            "id": 22584,
+            "token": "fact"
+          },
+          "tie": true
+        }
+      ]
+    },
+    {
+      "layer": 3,
+      "groups": [
+        {
+          "candidates": [
+            {
+              "id": 22584,
+              "g": 0.0,
+              "token": "fact"
+            },
+            {
+              "id": 22584,
+              "g": 0.0,
+              "token": "fact"
+            }
+          ],
+          "winner": {
+            "id": 22584,
+            "token": "fact"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 22584,
+              "g": 0.0,
+              "token": "fact"
+            },
+            {
+              "id": 22584,
+              "g": 0.0,
+              "token": "fact"
+            }
+          ],
+          "winner": {
+            "id": 22584,
+            "token": "fact"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 22584,
+              "g": 0.0,
+              "token": "fact"
+            },
+            {
+              "id": 22584,
+              "g": 0.0,
+              "token": "fact"
+            }
+          ],
+          "winner": {
+            "id": 22584,
+            "token": "fact"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 22584,
+              "g": 0.0,
+              "token": "fact"
+            },
+            {
+              "id": 22584,
+              "g": 0.0,
+              "token": "fact"
+            }
+          ],
+          "winner": {
+            "id": 22584,
+            "token": "fact"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 22584,
+              "g": 0.0,
+              "token": "fact"
+            },
+            {
+              "id": 22584,
+              "g": 0.0,
+              "token": "fact"
+            }
+          ],
+          "winner": {
+            "id": 22584,
+            "token": "fact"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 22584,
+              "g": 0.0,
+              "token": "fact"
+            },
+            {
+              "id": 22584,
+              "g": 0.0,
+              "token": "fact"
+            }
+          ],
+          "winner": {
+            "id": 22584,
+            "token": "fact"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 22584,
+              "g": 0.0,
+              "token": "fact"
+            },
+            {
+              "id": 22584,
+              "g": 0.0,
+              "token": "fact"
+            }
+          ],
+          "winner": {
+            "id": 22584,
+            "token": "fact"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 22584,
+              "g": 0.0,
+              "token": "fact"
+            },
+            {
+              "id": 22584,
+              "g": 0.0,
+              "token": "fact"
+            }
+          ],
+          "winner": {
+            "id": 22584,
+            "token": "fact"
+          },
+          "tie": true
+        }
+      ]
+    },
+    {
+      "layer": 4,
+      "groups": [
+        {
+          "candidates": [
+            {
+              "id": 22584,
+              "g": 0.0,
+              "token": "fact"
+            },
+            {
+              "id": 22584,
+              "g": 0.0,
+              "token": "fact"
+            }
+          ],
+          "winner": {
+            "id": 22584,
+            "token": "fact"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 22584,
+              "g": 0.0,
+              "token": "fact"
+            },
+            {
+              "id": 22584,
+              "g": 0.0,
+              "token": "fact"
+            }
+          ],
+          "winner": {
+            "id": 22584,
+            "token": "fact"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 22584,
+              "g": 0.0,
+              "token": "fact"
+            },
+            {
+              "id": 22584,
+              "g": 0.0,
+              "token": "fact"
+            }
+          ],
+          "winner": {
+            "id": 22584,
+            "token": "fact"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 22584,
+              "g": 0.0,
+              "token": "fact"
+            },
+            {
+              "id": 22584,
+              "g": 0.0,
+              "token": "fact"
+            }
+          ],
+          "winner": {
+            "id": 22584,
+            "token": "fact"
+          },
+          "tie": true
+        }
+      ]
+    },
+    {
+      "layer": 5,
+      "groups": [
+        {
+          "candidates": [
+            {
+              "id": 22584,
+              "g": 1.0,
+              "token": "fact"
+            },
+            {
+              "id": 22584,
+              "g": 1.0,
+              "token": "fact"
+            }
+          ],
+          "winner": {
+            "id": 22584,
+            "token": "fact"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 22584,
+              "g": 1.0,
+              "token": "fact"
+            },
+            {
+              "id": 22584,
+              "g": 1.0,
+              "token": "fact"
+            }
+          ],
+          "winner": {
+            "id": 22584,
+            "token": "fact"
+          },
+          "tie": true
+        }
+      ]
+    },
+    {
+      "layer": 6,
+      "groups": [
+        {
+          "candidates": [
+            {
+              "id": 22584,
+              "g": 0.0,
+              "token": "fact"
+            },
+            {
+              "id": 22584,
+              "g": 0.0,
+              "token": "fact"
+            }
+          ],
+          "winner": {
+            "id": 22584,
+            "token": "fact"
+          },
+          "tie": true
+        }
+      ]
+    }
+  ],
+  "final_winner": {
+    "id": 22584,
+    "token": "fact"
+  },
+  "top_probs": [
+    {
+      "rank": 1,
+      "id": 22584,
+      "token": "fact",
+      "p": 0.9995023012161255
+    },
+    {
+      "rank": 2,
+      "id": 17319,
+      "token": "course",
+      "p": 0.00027275673346593976
+    },
+    {
+      "rank": 3,
+      "id": 37473,
+      "token": "facts",
+      "p": 4.343733235145919e-05
+    },
+    {
+      "rank": 4,
+      "id": 1109,
+      "token": "Ġfact",
+      "p": 2.4097238565445878e-05
+    },
+    {
+      "rank": 5,
+      "id": 22105,
+      "token": "record",
+      "p": 2.0504023268586025e-05
+    },
+    {
+      "rank": 6,
+      "id": 9446,
+      "token": "interest",
+      "p": 1.156692178483354e-05
+    },
+    {
+      "rank": 7,
+      "id": 1169,
+      "token": "the",
+      "p": 9.085009878617711e-06
+    },
+    {
+      "rank": 8,
+      "id": 42138,
+      "token": "notice",
+      "p": 8.062054803303909e-06
+    },
+    {
+      "rank": 9,
+      "id": 18487,
+      "token": "contin",
+      "p": 6.516932444355916e-06
+    },
+    {
+      "rank": 10,
+      "id": 11377,
+      "token": "public",
+      "p": 4.113000613870099e-06
+    },
+    {
+      "rank": 11,
+      "id": 400,
+      "token": "th",
+      "p": 3.7939480534987524e-06
+    },
+    {
+      "rank": 12,
+      "id": 29054,
+      "token": "Fact",
+      "p": 3.705425342559465e-06
+    },
+    {
+      "rank": 13,
+      "id": 32542,
+      "token": "mom",
+      "p": 2.7443995804787846e-06
+    },
+    {
+      "rank": 14,
+      "id": 11498,
+      "token": "tem",
+      "p": 2.6956233796227025e-06
+    },
+    {
+      "rank": 15,
+      "id": 21353,
+      "token": "nature",
+      "p": 2.2303556761471555e-06
+    }
+  ],
+  "selected": {
+    "id": 22584,
+    "token": "fact",
+    "p": 0.9995023012161255
+  },
+  "step": 10,
+  "m_layers": 6,
+  "group_size": 2,
+  "g_dist": "bernoulli",
+  "H_window": 4,
+  "nsec": 128,
+  "temperature": 1.0,
+  "top_k": null,
+  "top_p": null
+}

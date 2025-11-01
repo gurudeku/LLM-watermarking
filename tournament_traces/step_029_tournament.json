@@ -1,0 +1,1664 @@
+{
+  "seed_rt": 294050468089680735072514337817794972119,
+  "initial_candidates": [
+    {
+      "id": 640,
+      "p": 0.9853622913360596,
+      "token": "Ġtime"
+    },
+    {
+      "id": 640,
+      "p": 0.9853622913360596,
+      "token": "Ġtime"
+    },
+    {
+      "id": 640,
+      "p": 0.9853622913360596,
+      "token": "Ġtime"
+    },
+    {
+      "id": 640,
+      "p": 0.9853622913360596,
+      "token": "Ġtime"
+    },
+    {
+      "id": 640,
+      "p": 0.9853622913360596,
+      "token": "Ġtime"
+    },
+    {
+      "id": 640,
+      "p": 0.9853622913360596,
+      "token": "Ġtime"
+    },
+    {
+      "id": 640,
+      "p": 0.9853622913360596,
+      "token": "Ġtime"
+    },
+    {
+      "id": 640,
+      "p": 0.9853622913360596,
+      "token": "Ġtime"
+    },
+    {
+      "id": 640,
+      "p": 0.9853622913360596,
+      "token": "Ġtime"
+    },
+    {
+      "id": 640,
+      "p": 0.9853622913360596,
+      "token": "Ġtime"
+    },
+    {
+      "id": 640,
+      "p": 0.9853622913360596,
+      "token": "Ġtime"
+    },
+    {
+      "id": 640,
+      "p": 0.9853622913360596,
+      "token": "Ġtime"
+    },
+    {
+      "id": 640,
+      "p": 0.9853622913360596,
+      "token": "Ġtime"
+    },
+    {
+      "id": 640,
+      "p": 0.9853622913360596,
+      "token": "Ġtime"
+    },
+    {
+      "id": 640,
+      "p": 0.9853622913360596,
+      "token": "Ġtime"
+    },
+    {
+      "id": 640,
+      "p": 0.9853622913360596,
+      "token": "Ġtime"
+    },
+    {
+      "id": 640,
+      "p": 0.9853622913360596,
+      "token": "Ġtime"
+    },
+    {
+      "id": 640,
+      "p": 0.9853622913360596,
+      "token": "Ġtime"
+    },
+    {
+      "id": 640,
+      "p": 0.9853622913360596,
+      "token": "Ġtime"
+    },
+    {
+      "id": 640,
+      "p": 0.9853622913360596,
+      "token": "Ġtime"
+    },
+    {
+      "id": 640,
+      "p": 0.9853622913360596,
+      "token": "Ġtime"
+    },
+    {
+      "id": 640,
+      "p": 0.9853622913360596,
+      "token": "Ġtime"
+    },
+    {
+      "id": 640,
+      "p": 0.9853622913360596,
+      "token": "Ġtime"
+    },
+    {
+      "id": 640,
+      "p": 0.9853622913360596,
+      "token": "Ġtime"
+    },
+    {
+      "id": 640,
+      "p": 0.9853622913360596,
+      "token": "Ġtime"
+    },
+    {
+      "id": 640,
+      "p": 0.9853622913360596,
+      "token": "Ġtime"
+    },
+    {
+      "id": 640,
+      "p": 0.9853622913360596,
+      "token": "Ġtime"
+    },
+    {
+      "id": 640,
+      "p": 0.9853622913360596,
+      "token": "Ġtime"
+    },
+    {
+      "id": 640,
+      "p": 0.9853622913360596,
+      "token": "Ġtime"
+    },
+    {
+      "id": 640,
+      "p": 0.9853622913360596,
+      "token": "Ġtime"
+    },
+    {
+      "id": 640,
+      "p": 0.9853622913360596,
+      "token": "Ġtime"
+    },
+    {
+      "id": 640,
+      "p": 0.9853622913360596,
+      "token": "Ġtime"
+    },
+    {
+      "id": 640,
+      "p": 0.9853622913360596,
+      "token": "Ġtime"
+    },
+    {
+      "id": 640,
+      "p": 0.9853622913360596,
+      "token": "Ġtime"
+    },
+    {
+      "id": 640,
+      "p": 0.9853622913360596,
+      "token": "Ġtime"
+    },
+    {
+      "id": 640,
+      "p": 0.9853622913360596,
+      "token": "Ġtime"
+    },
+    {
+      "id": 640,
+      "p": 0.9853622913360596,
+      "token": "Ġtime"
+    },
+    {
+      "id": 640,
+      "p": 0.9853622913360596,
+      "token": "Ġtime"
+    },
+    {
+      "id": 640,
+      "p": 0.9853622913360596,
+      "token": "Ġtime"
+    },
+    {
+      "id": 640,
+      "p": 0.9853622913360596,
+      "token": "Ġtime"
+    },
+    {
+      "id": 640,
+      "p": 0.9853622913360596,
+      "token": "Ġtime"
+    },
+    {
+      "id": 640,
+      "p": 0.9853622913360596,
+      "token": "Ġtime"
+    },
+    {
+      "id": 640,
+      "p": 0.9853622913360596,
+      "token": "Ġtime"
+    },
+    {
+      "id": 640,
+      "p": 0.9853622913360596,
+      "token": "Ġtime"
+    },
+    {
+      "id": 640,
+      "p": 0.9853622913360596,
+      "token": "Ġtime"
+    },
+    {
+      "id": 640,
+      "p": 0.9853622913360596,
+      "token": "Ġtime"
+    },
+    {
+      "id": 640,
+      "p": 0.9853622913360596,
+      "token": "Ġtime"
+    },
+    {
+      "id": 640,
+      "p": 0.9853622913360596,
+      "token": "Ġtime"
+    },
+    {
+      "id": 12,
+      "p": 0.00016037232126109302,
+      "token": "-"
+    },
+    {
+      "id": 640,
+      "p": 0.9853622913360596,
+      "token": "Ġtime"
+    },
+    {
+      "id": 640,
+      "p": 0.9853622913360596,
+      "token": "Ġtime"
+    },
+    {
+      "id": 640,
+      "p": 0.9853622913360596,
+      "token": "Ġtime"
+    },
+    {
+      "id": 640,
+      "p": 0.9853622913360596,
+      "token": "Ġtime"
+    },
+    {
+      "id": 640,
+      "p": 0.9853622913360596,
+      "token": "Ġtime"
+    },
+    {
+      "id": 640,
+      "p": 0.9853622913360596,
+      "token": "Ġtime"
+    },
+    {
+      "id": 640,
+      "p": 0.9853622913360596,
+      "token": "Ġtime"
+    },
+    {
+      "id": 640,
+      "p": 0.9853622913360596,
+      "token": "Ġtime"
+    },
+    {
+      "id": 640,
+      "p": 0.9853622913360596,
+      "token": "Ġtime"
+    },
+    {
+      "id": 640,
+      "p": 0.9853622913360596,
+      "token": "Ġtime"
+    },
+    {
+      "id": 640,
+      "p": 0.9853622913360596,
+      "token": "Ġtime"
+    },
+    {
+      "id": 640,
+      "p": 0.9853622913360596,
+      "token": "Ġtime"
+    },
+    {
+      "id": 640,
+      "p": 0.9853622913360596,
+      "token": "Ġtime"
+    },
+    {
+      "id": 640,
+      "p": 0.9853622913360596,
+      "token": "Ġtime"
+    },
+    {
+      "id": 640,
+      "p": 0.9853622913360596,
+      "token": "Ġtime"
+    }
+  ],
+  "layers": [
+    {
+      "layer": 1,
+      "groups": [
+        {
+          "candidates": [
+            {
+              "id": 640,
+              "g": 0.0,
+              "token": "Ġtime"
+            },
+            {
+              "id": 640,
+              "g": 0.0,
+              "token": "Ġtime"
+            }
+          ],
+          "winner": {
+            "id": 640,
+            "token": "Ġtime"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 640,
+              "g": 0.0,
+              "token": "Ġtime"
+            },
+            {
+              "id": 640,
+              "g": 0.0,
+              "token": "Ġtime"
+            }
+          ],
+          "winner": {
+            "id": 640,
+            "token": "Ġtime"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 640,
+              "g": 0.0,
+              "token": "Ġtime"
+            },
+            {
+              "id": 640,
+              "g": 0.0,
+              "token": "Ġtime"
+            }
+          ],
+          "winner": {
+            "id": 640,
+            "token": "Ġtime"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 640,
+              "g": 0.0,
+              "token": "Ġtime"
+            },
+            {
+              "id": 640,
+              "g": 0.0,
+              "token": "Ġtime"
+            }
+          ],
+          "winner": {
+            "id": 640,
+            "token": "Ġtime"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 640,
+              "g": 0.0,
+              "token": "Ġtime"
+            },
+            {
+              "id": 640,
+              "g": 0.0,
+              "token": "Ġtime"
+            }
+          ],
+          "winner": {
+            "id": 640,
+            "token": "Ġtime"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 640,
+              "g": 0.0,
+              "token": "Ġtime"
+            },
+            {
+              "id": 640,
+              "g": 0.0,
+              "token": "Ġtime"
+            }
+          ],
+          "winner": {
+            "id": 640,
+            "token": "Ġtime"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 640,
+              "g": 0.0,
+              "token": "Ġtime"
+            },
+            {
+              "id": 640,
+              "g": 0.0,
+              "token": "Ġtime"
+            }
+          ],
+          "winner": {
+            "id": 640,
+            "token": "Ġtime"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 640,
+              "g": 0.0,
+              "token": "Ġtime"
+            },
+            {
+              "id": 640,
+              "g": 0.0,
+              "token": "Ġtime"
+            }
+          ],
+          "winner": {
+            "id": 640,
+            "token": "Ġtime"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 640,
+              "g": 0.0,
+              "token": "Ġtime"
+            },
+            {
+              "id": 640,
+              "g": 0.0,
+              "token": "Ġtime"
+            }
+          ],
+          "winner": {
+            "id": 640,
+            "token": "Ġtime"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 640,
+              "g": 0.0,
+              "token": "Ġtime"
+            },
+            {
+              "id": 640,
+              "g": 0.0,
+              "token": "Ġtime"
+            }
+          ],
+          "winner": {
+            "id": 640,
+            "token": "Ġtime"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 640,
+              "g": 0.0,
+              "token": "Ġtime"
+            },
+            {
+              "id": 640,
+              "g": 0.0,
+              "token": "Ġtime"
+            }
+          ],
+          "winner": {
+            "id": 640,
+            "token": "Ġtime"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 640,
+              "g": 0.0,
+              "token": "Ġtime"
+            },
+            {
+              "id": 640,
+              "g": 0.0,
+              "token": "Ġtime"
+            }
+          ],
+          "winner": {
+            "id": 640,
+            "token": "Ġtime"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 640,
+              "g": 0.0,
+              "token": "Ġtime"
+            },
+            {
+              "id": 640,
+              "g": 0.0,
+              "token": "Ġtime"
+            }
+          ],
+          "winner": {
+            "id": 640,
+            "token": "Ġtime"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 640,
+              "g": 0.0,
+              "token": "Ġtime"
+            },
+            {
+              "id": 640,
+              "g": 0.0,
+              "token": "Ġtime"
+            }
+          ],
+          "winner": {
+            "id": 640,
+            "token": "Ġtime"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 640,
+              "g": 0.0,
+              "token": "Ġtime"
+            },
+            {
+              "id": 640,
+              "g": 0.0,
+              "token": "Ġtime"
+            }
+          ],
+          "winner": {
+            "id": 640,
+            "token": "Ġtime"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 640,
+              "g": 0.0,
+              "token": "Ġtime"
+            },
+            {
+              "id": 640,
+              "g": 0.0,
+              "token": "Ġtime"
+            }
+          ],
+          "winner": {
+            "id": 640,
+            "token": "Ġtime"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 640,
+              "g": 0.0,
+              "token": "Ġtime"
+            },
+            {
+              "id": 640,
+              "g": 0.0,
+              "token": "Ġtime"
+            }
+          ],
+          "winner": {
+            "id": 640,
+            "token": "Ġtime"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 640,
+              "g": 0.0,
+              "token": "Ġtime"
+            },
+            {
+              "id": 640,
+              "g": 0.0,
+              "token": "Ġtime"
+            }
+          ],
+          "winner": {
+            "id": 640,
+            "token": "Ġtime"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 640,
+              "g": 0.0,
+              "token": "Ġtime"
+            },
+            {
+              "id": 640,
+              "g": 0.0,
+              "token": "Ġtime"
+            }
+          ],
+          "winner": {
+            "id": 640,
+            "token": "Ġtime"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 640,
+              "g": 0.0,
+              "token": "Ġtime"
+            },
+            {
+              "id": 640,
+              "g": 0.0,
+              "token": "Ġtime"
+            }
+          ],
+          "winner": {
+            "id": 640,
+            "token": "Ġtime"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 640,
+              "g": 0.0,
+              "token": "Ġtime"
+            },
+            {
+              "id": 640,
+              "g": 0.0,
+              "token": "Ġtime"
+            }
+          ],
+          "winner": {
+            "id": 640,
+            "token": "Ġtime"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 640,
+              "g": 0.0,
+              "token": "Ġtime"
+            },
+            {
+              "id": 640,
+              "g": 0.0,
+              "token": "Ġtime"
+            }
+          ],
+          "winner": {
+            "id": 640,
+            "token": "Ġtime"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 640,
+              "g": 0.0,
+              "token": "Ġtime"
+            },
+            {
+              "id": 640,
+              "g": 0.0,
+              "token": "Ġtime"
+            }
+          ],
+          "winner": {
+            "id": 640,
+            "token": "Ġtime"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 640,
+              "g": 0.0,
+              "token": "Ġtime"
+            },
+            {
+              "id": 640,
+              "g": 0.0,
+              "token": "Ġtime"
+            }
+          ],
+          "winner": {
+            "id": 640,
+            "token": "Ġtime"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 640,
+              "g": 0.0,
+              "token": "Ġtime"
+            },
+            {
+              "id": 12,
+              "g": 0.0,
+              "token": "-"
+            }
+          ],
+          "winner": {
+            "id": 12,
+            "token": "-"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 640,
+              "g": 0.0,
+              "token": "Ġtime"
+            },
+            {
+              "id": 640,
+              "g": 0.0,
+              "token": "Ġtime"
+            }
+          ],
+          "winner": {
+            "id": 640,
+            "token": "Ġtime"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 640,
+              "g": 0.0,
+              "token": "Ġtime"
+            },
+            {
+              "id": 640,
+              "g": 0.0,
+              "token": "Ġtime"
+            }
+          ],
+          "winner": {
+            "id": 640,
+            "token": "Ġtime"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 640,
+              "g": 0.0,
+              "token": "Ġtime"
+            },
+            {
+              "id": 640,
+              "g": 0.0,
+              "token": "Ġtime"
+            }
+          ],
+          "winner": {
+            "id": 640,
+            "token": "Ġtime"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 640,
+              "g": 0.0,
+              "token": "Ġtime"
+            },
+            {
+              "id": 640,
+              "g": 0.0,
+              "token": "Ġtime"
+            }
+          ],
+          "winner": {
+            "id": 640,
+            "token": "Ġtime"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 640,
+              "g": 0.0,
+              "token": "Ġtime"
+            },
+            {
+              "id": 640,
+              "g": 0.0,
+              "token": "Ġtime"
+            }
+          ],
+          "winner": {
+            "id": 640,
+            "token": "Ġtime"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 640,
+              "g": 0.0,
+              "token": "Ġtime"
+            },
+            {
+              "id": 640,
+              "g": 0.0,
+              "token": "Ġtime"
+            }
+          ],
+          "winner": {
+            "id": 640,
+            "token": "Ġtime"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 640,
+              "g": 0.0,
+              "token": "Ġtime"
+            },
+            {
+              "id": 640,
+              "g": 0.0,
+              "token": "Ġtime"
+            }
+          ],
+          "winner": {
+            "id": 640,
+            "token": "Ġtime"
+          },
+          "tie": true
+        }
+      ]
+    },
+    {
+      "layer": 2,
+      "groups": [
+        {
+          "candidates": [
+            {
+              "id": 640,
+              "g": 0.0,
+              "token": "Ġtime"
+            },
+            {
+              "id": 640,
+              "g": 0.0,
+              "token": "Ġtime"
+            }
+          ],
+          "winner": {
+            "id": 640,
+            "token": "Ġtime"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 640,
+              "g": 0.0,
+              "token": "Ġtime"
+            },
+            {
+              "id": 640,
+              "g": 0.0,
+              "token": "Ġtime"
+            }
+          ],
+          "winner": {
+            "id": 640,
+            "token": "Ġtime"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 640,
+              "g": 0.0,
+              "token": "Ġtime"
+            },
+            {
+              "id": 640,
+              "g": 0.0,
+              "token": "Ġtime"
+            }
+          ],
+          "winner": {
+            "id": 640,
+            "token": "Ġtime"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 640,
+              "g": 0.0,
+              "token": "Ġtime"
+            },
+            {
+              "id": 12,
+              "g": 0.0,
+              "token": "-"
+            }
+          ],
+          "winner": {
+            "id": 640,
+            "token": "Ġtime"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 640,
+              "g": 0.0,
+              "token": "Ġtime"
+            },
+            {
+              "id": 640,
+              "g": 0.0,
+              "token": "Ġtime"
+            }
+          ],
+          "winner": {
+            "id": 640,
+            "token": "Ġtime"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 640,
+              "g": 0.0,
+              "token": "Ġtime"
+            },
+            {
+              "id": 640,
+              "g": 0.0,
+              "token": "Ġtime"
+            }
+          ],
+          "winner": {
+            "id": 640,
+            "token": "Ġtime"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 640,
+              "g": 0.0,
+              "token": "Ġtime"
+            },
+            {
+              "id": 640,
+              "g": 0.0,
+              "token": "Ġtime"
+            }
+          ],
+          "winner": {
+            "id": 640,
+            "token": "Ġtime"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 640,
+              "g": 0.0,
+              "token": "Ġtime"
+            },
+            {
+              "id": 640,
+              "g": 0.0,
+              "token": "Ġtime"
+            }
+          ],
+          "winner": {
+            "id": 640,
+            "token": "Ġtime"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 640,
+              "g": 0.0,
+              "token": "Ġtime"
+            },
+            {
+              "id": 640,
+              "g": 0.0,
+              "token": "Ġtime"
+            }
+          ],
+          "winner": {
+            "id": 640,
+            "token": "Ġtime"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 640,
+              "g": 0.0,
+              "token": "Ġtime"
+            },
+            {
+              "id": 640,
+              "g": 0.0,
+              "token": "Ġtime"
+            }
+          ],
+          "winner": {
+            "id": 640,
+            "token": "Ġtime"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 640,
+              "g": 0.0,
+              "token": "Ġtime"
+            },
+            {
+              "id": 640,
+              "g": 0.0,
+              "token": "Ġtime"
+            }
+          ],
+          "winner": {
+            "id": 640,
+            "token": "Ġtime"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 640,
+              "g": 0.0,
+              "token": "Ġtime"
+            },
+            {
+              "id": 640,
+              "g": 0.0,
+              "token": "Ġtime"
+            }
+          ],
+          "winner": {
+            "id": 640,
+            "token": "Ġtime"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 640,
+              "g": 0.0,
+              "token": "Ġtime"
+            },
+            {
+              "id": 640,
+              "g": 0.0,
+              "token": "Ġtime"
+            }
+          ],
+          "winner": {
+            "id": 640,
+            "token": "Ġtime"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 640,
+              "g": 0.0,
+              "token": "Ġtime"
+            },
+            {
+              "id": 640,
+              "g": 0.0,
+              "token": "Ġtime"
+            }
+          ],
+          "winner": {
+            "id": 640,
+            "token": "Ġtime"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 640,
+              "g": 0.0,
+              "token": "Ġtime"
+            },
+            {
+              "id": 640,
+              "g": 0.0,
+              "token": "Ġtime"
+            }
+          ],
+          "winner": {
+            "id": 640,
+            "token": "Ġtime"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 640,
+              "g": 0.0,
+              "token": "Ġtime"
+            },
+            {
+              "id": 640,
+              "g": 0.0,
+              "token": "Ġtime"
+            }
+          ],
+          "winner": {
+            "id": 640,
+            "token": "Ġtime"
+          },
+          "tie": true
+        }
+      ]
+    },
+    {
+      "layer": 3,
+      "groups": [
+        {
+          "candidates": [
+            {
+              "id": 640,
+              "g": 0.0,
+              "token": "Ġtime"
+            },
+            {
+              "id": 640,
+              "g": 0.0,
+              "token": "Ġtime"
+            }
+          ],
+          "winner": {
+            "id": 640,
+            "token": "Ġtime"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 640,
+              "g": 0.0,
+              "token": "Ġtime"
+            },
+            {
+              "id": 640,
+              "g": 0.0,
+              "token": "Ġtime"
+            }
+          ],
+          "winner": {
+            "id": 640,
+            "token": "Ġtime"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 640,
+              "g": 0.0,
+              "token": "Ġtime"
+            },
+            {
+              "id": 640,
+              "g": 0.0,
+              "token": "Ġtime"
+            }
+          ],
+          "winner": {
+            "id": 640,
+            "token": "Ġtime"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 640,
+              "g": 0.0,
+              "token": "Ġtime"
+            },
+            {
+              "id": 640,
+              "g": 0.0,
+              "token": "Ġtime"
+            }
+          ],
+          "winner": {
+            "id": 640,
+            "token": "Ġtime"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 640,
+              "g": 0.0,
+              "token": "Ġtime"
+            },
+            {
+              "id": 640,
+              "g": 0.0,
+              "token": "Ġtime"
+            }
+          ],
+          "winner": {
+            "id": 640,
+            "token": "Ġtime"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 640,
+              "g": 0.0,
+              "token": "Ġtime"
+            },
+            {
+              "id": 640,
+              "g": 0.0,
+              "token": "Ġtime"
+            }
+          ],
+          "winner": {
+            "id": 640,
+            "token": "Ġtime"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 640,
+              "g": 0.0,
+              "token": "Ġtime"
+            },
+            {
+              "id": 640,
+              "g": 0.0,
+              "token": "Ġtime"
+            }
+          ],
+          "winner": {
+            "id": 640,
+            "token": "Ġtime"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 640,
+              "g": 0.0,
+              "token": "Ġtime"
+            },
+            {
+              "id": 640,
+              "g": 0.0,
+              "token": "Ġtime"
+            }
+          ],
+          "winner": {
+            "id": 640,
+            "token": "Ġtime"
+          },
+          "tie": true
+        }
+      ]
+    },
+    {
+      "layer": 4,
+      "groups": [
+        {
+          "candidates": [
+            {
+              "id": 640,
+              "g": 1.0,
+              "token": "Ġtime"
+            },
+            {
+              "id": 640,
+              "g": 1.0,
+              "token": "Ġtime"
+            }
+          ],
+          "winner": {
+            "id": 640,
+            "token": "Ġtime"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 640,
+              "g": 1.0,
+              "token": "Ġtime"
+            },
+            {
+              "id": 640,
+              "g": 1.0,
+              "token": "Ġtime"
+            }
+          ],
+          "winner": {
+            "id": 640,
+            "token": "Ġtime"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 640,
+              "g": 1.0,
+              "token": "Ġtime"
+            },
+            {
+              "id": 640,
+              "g": 1.0,
+              "token": "Ġtime"
+            }
+          ],
+          "winner": {
+            "id": 640,
+            "token": "Ġtime"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 640,
+              "g": 1.0,
+              "token": "Ġtime"
+            },
+            {
+              "id": 640,
+              "g": 1.0,
+              "token": "Ġtime"
+            }
+          ],
+          "winner": {
+            "id": 640,
+            "token": "Ġtime"
+          },
+          "tie": true
+        }
+      ]
+    },
+    {
+      "layer": 5,
+      "groups": [
+        {
+          "candidates": [
+            {
+              "id": 640,
+              "g": 1.0,
+              "token": "Ġtime"
+            },
+            {
+              "id": 640,
+              "g": 1.0,
+              "token": "Ġtime"
+            }
+          ],
+          "winner": {
+            "id": 640,
+            "token": "Ġtime"
+          },
+          "tie": true
+        },
+        {
+          "candidates": [
+            {
+              "id": 640,
+              "g": 1.0,
+              "token": "Ġtime"
+            },
+            {
+              "id": 640,
+              "g": 1.0,
+              "token": "Ġtime"
+            }
+          ],
+          "winner": {
+            "id": 640,
+            "token": "Ġtime"
+          },
+          "tie": true
+        }
+      ]
+    },
+    {
+      "layer": 6,
+      "groups": [
+        {
+          "candidates": [
+            {
+              "id": 640,
+              "g": 0.0,
+              "token": "Ġtime"
+            },
+            {
+              "id": 640,
+              "g": 0.0,
+              "token": "Ġtime"
+            }
+          ],
+          "winner": {
+            "id": 640,
+            "token": "Ġtime"
+          },
+          "tie": true
+        }
+      ]
+    }
+  ],
+  "final_winner": {
+    "id": 640,
+    "token": "Ġtime"
+  },
+  "top_probs": [
+    {
+      "rank": 1,
+      "id": 640,
+      "token": "Ġtime",
+      "p": 0.9853622913360596
+    },
+    {
+      "rank": 2,
+      "id": 290,
+      "token": "Ġand",
+      "p": 0.0006218742928467691
+    },
+    {
+      "rank": 3,
+      "id": 2063,
+      "token": "Ġhalf",
+      "p": 0.0004236319218762219
+    },
+    {
+      "rank": 4,
+      "id": 1103,
+      "token": "Ġreal",
+      "p": 0.0003988133685197681
+    },
+    {
+      "rank": 5,
+      "id": 2239,
+      "token": "Ġstep",
+      "p": 0.0003860627766698599
+    },
+    {
+      "rank": 6,
+      "id": 1688,
+      "token": "Ġmajor",
+      "p": 0.0003374886291567236
+    },
+    {
+      "rank": 7,
+      "id": 1110,
+      "token": "Ġday",
+      "p": 0.000324832129990682
+    },
+    {
+      "rank": 8,
+      "id": 1178,
+      "token": "Ġfew",
+      "p": 0.0003149582480546087
+    },
+    {
+      "rank": 9,
+      "id": 636,
+      "token": "Ġpart",
+      "p": 0.00031345998286269605
+    },
+    {
+      "rank": 10,
+      "id": 734,
+      "token": "Ġtwo",
+      "p": 0.0002832415048032999
+    },
+    {
+      "rank": 11,
+      "id": 286,
+      "token": "Ġof",
+      "p": 0.0002542915171943605
+    },
+    {
+      "rank": 12,
+      "id": 1295,
+      "token": "Ġplace",
+      "p": 0.00021324152476154268
+    },
+    {
+      "rank": 13,
+      "id": 11,
+      "token": ",",
+      "p": 0.00016589030565228313
+    },
+    {
+      "rank": 14,
+      "id": 12,
+      "token": "-",
+      "p": 0.00016037232126109302
+    },
+    {
+      "rank": 15,
+      "id": 3663,
+      "token": "Ġopportunity",
+      "p": 0.00015251316654030234
+    }
+  ],
+  "selected": {
+    "id": 640,
+    "token": "Ġtime",
+    "p": 0.9853622913360596
+  },
+  "step": 29,
+  "m_layers": 6,
+  "group_size": 2,
+  "g_dist": "bernoulli",
+  "H_window": 4,
+  "nsec": 128,
+  "temperature": 1.0,
+  "top_k": null,
+  "top_p": null
+}
